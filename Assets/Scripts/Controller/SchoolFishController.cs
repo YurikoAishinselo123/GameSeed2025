@@ -10,7 +10,7 @@ public class SchoolFishController : MonoBehaviour
     void Start()
     {
         playerController = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
-        originalSpeed = playerController.smoothedSpeed;
+        //originalSpeed = playerController.smoothedSpeed;
         speed = Random.Range(1f, 3f);
         rb = GetComponent<Rigidbody2D>();
     }
@@ -18,14 +18,14 @@ public class SchoolFishController : MonoBehaviour
     void FixedUpdate()
     {
         rb.MovePosition(rb.position + (Vector2)transform.right * speed * Time.fixedDeltaTime);
-        Debug.Log(playerController.smoothedSpeed);
+        //Debug.Log(playerController.smoothedSpeed);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.tag == "Player")
         {
-            playerController.smoothedSpeed = slowedMovement;
+            //playerController.smoothedSpeed = slowedMovement;
         }
     }
 
@@ -33,8 +33,8 @@ public class SchoolFishController : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
-            playerController.smoothedSpeed = originalSpeed;
-           
+            //playerController.smoothedSpeed = originalSpeed;
+
         }
     }
 
