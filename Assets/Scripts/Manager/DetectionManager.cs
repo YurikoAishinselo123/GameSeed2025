@@ -3,10 +3,10 @@ using UnityEngine;
 public class DetectionManager : MonoBehaviour
 {
     [Header("Detection Settings")]
-    [SerializeField] private float detectionRange = 3f;
-    [SerializeField] private float detectionFrequency = 0.1f;
-    [SerializeField] private int rayCount = 5;
-    [SerializeField] private float detectionAngle = 45f;
+    private float detectionRange = 1f;
+    private float detectionFrequency = 0.1f;
+    private int rayCount = 5;
+    private float detectionAngle = 45f;
     [SerializeField] private LayerMask detectableLayer;
 
     [Header("Reference")]
