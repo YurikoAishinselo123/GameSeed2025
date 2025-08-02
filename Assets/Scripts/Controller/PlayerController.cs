@@ -5,7 +5,7 @@ using UnityEngine.InputSystem.LowLevel;
 
 public class PlayerController : MonoBehaviour
 {
-    float speed = 100f;
+    float speed = 4f;
     float moveX;
     float moveXClamp;
     float moveY;
@@ -22,38 +22,12 @@ public class PlayerController : MonoBehaviour
     }
     void FixedUpdate()
     {
-        //Vector3 desiredPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition) + offset;
-        //Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, smoothedSpeed);
-        //transform.position = smoothedPosition;
         moveX = Input.GetAxisRaw("Mouse X");
-        //if(moveX > 0)
-        //{
-        //    moveXClamp = 1f;
-        //}
-        //else if(moveX < 0)
-        //{
-        //    moveXClamp = -1f;
-        //}
-        //else if(moveX == 0)
-        //{
-        //    moveXClamp = 0f;
-        //}
+        moveXClamp = Mathf.Clamp(moveX, -1f, 1f);
         moveY = Input.GetAxisRaw("Mouse Y");
-        //if (moveY > 0)
-        //{
-        //    moveYClamp = 1f;
-        //}
-        //else if (moveY < 0)
-        //{
-        //    moveYClamp = -1f;
-        //}
-        //else if(moveY == 0)
-        //{
-        //    moveYClamp = 0f;
-        //}
-        movement = new Vector2(moveX, moveY);
-        rb.AddForce(movement * speed * Time.fixedDeltaTime, ForceMode2D.Impulse);
+        moveYClamp = Mathf.Clamp(moveY, -1f, 1f);
+        movement = new Vector2(moveXClamp, moveYClamp);
+        rb.AddForce(movement * speed, ForceMode2D.Impulse);
         Debug.Log(movement);
     }
 }
-
