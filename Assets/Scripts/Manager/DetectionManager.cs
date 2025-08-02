@@ -8,6 +8,7 @@ public class DetectionManager : MonoBehaviour
     private int rayCount = 5;
     private float detectionAngle = 45f;
     [SerializeField] private LayerMask detectableLayer;
+    [SerializeField] private LayerMask islandLayer;
 
     [Header("Reference")]
     [SerializeField] private Transform playerTransform;
@@ -60,40 +61,41 @@ public class DetectionManager : MonoBehaviour
 
         float step = detectionAngle / (rayCount - 1);
         float startAngle = -detectionAngle / 2f;
-
         Vector2 origin = playerTransform.position;
-        Vector2 baseDirection = playerTransform.right; // Use .up if your sprite faces up
+        Vector2 baseDirection = playerTransform.right;
 
         for (int i = 0; i < rayCount; i++)
         {
             float angleOffset = startAngle + (step * i);
             float angleRad = Mathf.Deg2Rad * angleOffset;
+
             Vector2 rotatedDirection = new Vector2(
                 baseDirection.x * Mathf.Cos(angleRad) - baseDirection.y * Mathf.Sin(angleRad),
                 baseDirection.x * Mathf.Sin(angleRad) + baseDirection.y * Mathf.Cos(angleRad)
             );
 
+            // First: Detect Collectibles
             RaycastHit2D hit = Physics2D.Raycast(origin, rotatedDirection, detectionRange, detectableLayer);
-            Debug.DrawRay(origin, rotatedDirection * detectionRange, hit.collider ? Color.green : Color.red, 0.1f);
-
             if (hit.collider != null)
             {
                 IDetectable detectable = hit.collider.GetComponent<IDetectable>();
                 if (detectable != null)
                 {
                     currentDetected = detectable;
-                    // Debug.Log($"[DetectionManager2D] ✅ Detected object: {hit.collider.name}");
                     detectable.Interact();
                     return;
                 }
-                else
-                {
-                    // Debug.Log($"[DetectionManager2D] ❌ No IDetectable on {hit.collider.name} (Layer: {LayerMask.LayerToName(hit.collider.gameObject.layer)})");
-                }
+            }
+
+            // Second: Detect Island
+            RaycastHit2D islandHit = Physics2D.Raycast(origin, rotatedDirection, detectionRange, islandLayer);
+            if (islandHit.collider != null)
+            {
+                Debug.Log($"Island Detected: {islandHit.collider.name}");
+                IslandManager.Instance.StoreAllFromInventory();
+                return;
             }
         }
-
-        // Debug.Log("[DetectionManager2D] ❌ No detectable object found");
     }
 
     public IDetectable GetCurrentDetected()

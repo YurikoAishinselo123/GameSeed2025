@@ -5,6 +5,8 @@ public class InventoryManager : MonoBehaviour
 {
     public static InventoryManager Instance { get; private set; }
 
+    [SerializeField] private int maxInventorySize = 10;
+
     private readonly List<CollectibleDataSO> inventory = new();
 
     private void Awake()
@@ -16,27 +18,59 @@ public class InventoryManager : MonoBehaviour
         }
 
         Instance = this;
-        DontDestroyOnLoad(gameObject); // Optional: persist between scenes
+        DontDestroyOnLoad(gameObject);
     }
 
     /// <summary>
-    /// Adds a collectible item to the inventory.
+    /// Attempts to add an item. Returns true if added successfully, false if inventory is full.
     /// </summary>
-    /// <param name="item">The CollectibleDataSO asset to add.</param>
-    public void Add(CollectibleDataSO item)
+    public bool Add(CollectibleDataSO item)
     {
+        if (inventory.Count >= maxInventorySize)
+        {
+            Debug.Log("[InventoryManager] Inventory full, cannot add item.");
+            return false;
+        }
+
         inventory.Add(item);
-        InventorySaveSystem.Save(inventory); // ✅ Save dulu
+        InventorySaveSystem.Save(inventory);
         InventoryEvents.RaiseItemCollected(item);
         InventoryEvents.RaiseInventoryUpdated();
         Debug.Log($"Collected: {item.itemName}");
+        return true;
     }
 
     /// <summary>
-    /// Returns the current list of collected items.
+    /// Returns the list of currently collected items.
     /// </summary>
     public List<CollectibleDataSO> GetItems()
     {
         return inventory;
+    }
+
+    /// <summary>
+    /// Returns how many items are currently collected.
+    /// </summary>
+    public int GetCount()
+    {
+        return inventory.Count;
+    }
+
+    /// <summary>
+    /// Returns the maximum number of items the inventory can hold.
+    /// </summary>
+    public int GetCapacity()
+    {
+        return maxInventorySize;
+    }
+
+    /// <summary>
+    /// Clears the entire inventory.
+    /// </summary>
+    public void Clear()
+    {
+        inventory.Clear();
+        InventoryEvents.RaiseInventoryUpdated();
+        Debug.Log("[InventoryManager] Inventory cleared.");
     }
 }
