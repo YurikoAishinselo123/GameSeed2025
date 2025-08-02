@@ -82,13 +82,13 @@ public class DetectionManager : MonoBehaviour
                 if (detectable != null)
                 {
                     currentDetected = detectable;
-                    Debug.Log($"[DetectionManager2D] ✅ Detected object: {hit.collider.name}");
+                    // Debug.Log($"[DetectionManager2D] ✅ Detected object: {hit.collider.name}");
                     detectable.Interact();
                     return;
                 }
                 else
                 {
-                    Debug.Log($"[DetectionManager2D] ❌ No IDetectable on {hit.collider.name} (Layer: {LayerMask.LayerToName(hit.collider.gameObject.layer)})");
+                    // Debug.Log($"[DetectionManager2D] ❌ No IDetectable on {hit.collider.name} (Layer: {LayerMask.LayerToName(hit.collider.gameObject.layer)})");
                 }
             }
         }

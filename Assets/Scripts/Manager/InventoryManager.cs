@@ -26,9 +26,9 @@ public class InventoryManager : MonoBehaviour
     public void Add(CollectibleDataSO item)
     {
         inventory.Add(item);
+        InventorySaveSystem.Save(inventory); // ✅ Save dulu
         InventoryEvents.RaiseItemCollected(item);
-        InventoryEvents.RaiseInventoryUpdated(); 
-        InventorySaveSystem.Save(inventory);
+        InventoryEvents.RaiseInventoryUpdated();
         Debug.Log($"Collected: {item.itemName}");
     }
 

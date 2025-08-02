@@ -1,54 +1,40 @@
 using System.Collections.Generic;
-using System.IO;
 using UnityEngine;
 
 public static class InventorySaveSystem
 {
-    private static string path => Path.Combine(Application.persistentDataPath, "inventory.json");
+    private static List<InventoryItemModel> savedItems = new();
 
-    public static void Save(List<CollectibleDataSO> items)
+    public static void Save(List<CollectibleDataSO> collectedItems)
     {
-        List<string> itemIDs = new();
-        foreach (var item in items)
+        savedItems.Clear();
+
+        // Instead of one model per item, count quantities
+        Dictionary<string, InventoryItemModel> itemMap = new();
+
+        foreach (var item in collectedItems)
         {
-            if (!string.IsNullOrEmpty(item.itemID))
-                itemIDs.Add(item.itemID);
-        }
-
-        var wrapper = new InventoryWrapper { itemIDs = itemIDs };
-        string json = JsonUtility.ToJson(wrapper, true);
-        File.WriteAllText(path, json);
-        Debug.Log($"[InventorySaveSystem] ✅ Inventory saved to: {path}");
-    }
-
-    public static List<CollectibleDataSO> Load()
-    {
-        if (!File.Exists(path))
-        {
-            Debug.Log("[InventorySaveSystem] ❌ No save file found.");
-            return new List<CollectibleDataSO>();
-        }
-
-        string json = File.ReadAllText(path);
-        var wrapper = JsonUtility.FromJson<InventoryWrapper>(json);
-
-        List<CollectibleDataSO> loadedItems = new();
-        foreach (string id in wrapper.itemIDs)
-        {
-            CollectibleDataSO item = InventoryDatabaseService.GetItemByID(id);
-            if (item != null)
-                loadedItems.Add(item);
+            if (itemMap.ContainsKey(item.itemID))
+            {
+                itemMap[item.itemID].quantity++;
+            }
             else
-                Debug.LogWarning($"[InventorySaveSystem] ⚠️ Item ID '{id}' not found in database.");
+            {
+                itemMap[item.itemID] = new InventoryItemModel(item, 1);
+            }
         }
 
-        Debug.Log($"[InventorySaveSystem] ✅ Loaded {loadedItems.Count} items.");
-        return loadedItems;
+        savedItems.AddRange(itemMap.Values);
+        Debug.Log($"[InventorySaveSystem] Saved {savedItems.Count} unique items.");
     }
 
-    [System.Serializable]
-    private class InventoryWrapper
+    public static List<InventoryItemModel> Load()
     {
-        public List<string> itemIDs;
+        foreach (var model in savedItems)
+        {
+            model.LoadItemData();
+        }
+
+        return new List<InventoryItemModel>(savedItems);
     }
 }
