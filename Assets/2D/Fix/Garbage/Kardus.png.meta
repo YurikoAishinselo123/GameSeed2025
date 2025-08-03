@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: 7d70c43e448074290bc3129c4397a69b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4436374041491221934
+    second: compressed_0
+  - first:
+      213: -7284669177971312436
+    second: compressed_1
+  - first:
+      213: -4152313689238105951
+    second: compressed_2
+  - first:
+      213: -345035516650557660
+    second: compressed_3
+  - first:
+      213: -6727058938254622097
+    second: compressed_4
+  - first:
+      213: -4631066923793740732
+    second: compressed_5
+  - first:
+      213: 1411777196640713907
+    second: compressed_6
+  - first:
+      213: -2975807178056374542
+    second: compressed_7
+  - first:
+      213: 3216382162010686997
+    second: compressed_8
+  - first:
+      213: -7813921970511541430
+    second: compressed_9
+  - first:
+      213: 6165398624542523103
+    second: compressed_10
+  - first:
+      213: -5531035595355098481
+    second: compressed_11
+  - first:
+      213: -6700030699860385375
+    second: compressed_12
+  - first:
+      213: 4407353931982460245
+    second: compressed_13
+  - first:
+      213: 7877436173753537139
+    second: compressed_14
+  - first:
+      213: -5167609429420650908
+    second: compressed_15
+  - first:
+      213: -4033389851009569024
+    second: compressed_16
+  - first:
+      213: -7571587595032781608
+    second: compressed_17
+  - first:
+      213: -598823420038373234
+    second: compressed_18
+  - first:
+      213: 7758568726571946955
+    second: compressed_19
+  - first:
+      213: 8910437157740997602
+    second: compressed_20
+  - first:
+      213: -8718880623164305080
+    second: compressed_21
+  - first:
+      213: 4682932053204771110
+    second: compressed_22
+  - first:
+      213: 4574796688370627342
+    second: compressed_23
+  - first:
+      213: -321895086987709231
+    second: compressed_24
+  - first:
+      213: 9166889195877206473
+    second: compressed_25
+  - first:
+      213: -6881024592761477063
+    second: compressed_26
+  - first:
+      213: -6541357309815276563
+    second: compressed_27
+  - first:
+      213: -5081274030066669688
+    second: compressed_28
+  - first:
+      213: 114621767419835029
+    second: compressed_29
+  - first:
+      213: 8490834864159060405
+    second: compressed_30
+  - first:
+      213: -1500450953421747159
+    second: compressed_31
+  - first:
+      213: -1206055231186621126
+    second: compressed_32
+  - first:
+      213: 3543416380651053299
+    second: compressed_33
+  - first:
+      213: 661723486586216095
+    second: compressed_34
+  - first:
+      213: -6144614709372980240
+    second: compressed_35
+  - first:
+      213: -7336183652910399141
+    second: compressed_36
+  - first:
+      213: -934773661203633936
+    second: compressed_37
+  - first:
+      213: 6816123371775190881
+    second: compressed_38
+  - first:
+      213: -8370741212597926422
+    second: compressed_39
+  - first:
+      213: 7854962845769239305
+    second: compressed_40
+  - first:
+      213: 6457444213490245873
+    second: compressed_41
+  - first:
+      213: -3670578736223686683
+    second: compressed_42
+  - first:
+      213: 749322873617501627
+    second: compressed_43
+  - first:
+      213: 6537873257391946935
+    second: compressed_44
+  - first:
+      213: 6626887755821563954
+    second: compressed_45
+  - first:
+      213: 6644372995860674681
+    second: compressed_46
+  - first:
+      213: 3559857240330458850
+    second: compressed_47
+  - first:
+      213: -5829038364813197579
+    second: compressed_48
+  - first:
+      213: 6966596865603287439
+    second: compressed_49
+  - first:
+      213: 189622393030034444
+    second: compressed_50
+  - first:
+      213: 4883028309754234810
+    second: compressed_51
+  - first:
+      213: -4807057106481314773
+    second: compressed_52
+  - first:
+      213: -207101070681015385
+    second: compressed_53
+  - first:
+      213: -1401892762303750199
+    second: compressed_54
+  - first:
+      213: -9045436456617103999
+    second: compressed_55
+  - first:
+      213: -6334131102703051030
+    second: compressed_56
+  - first:
+      213: -6499642246625480316
+    second: compressed_57
+  - first:
+      213: -3420917574433150000
+    second: compressed_58
+  - first:
+      213: -2129748173921730594
+    second: compressed_59
+  - first:
+      213: 2183257180517743971
+    second: compressed_60
+  - first:
+      213: -567267853424346491
+    second: compressed_61
+  - first:
+      213: -3405321205187596665
+    second: compressed_62
+  - first:
+      213: 8052141776317100633
+    second: compressed_63
+  - first:
+      213: -4662783705950893793
+    second: compressed_64
+  - first:
+      213: -2361083765562891467
+    second: compressed_65
+  - first:
+      213: -797827278424704128
+    second: compressed_66
+  - first:
+      213: -4114257334599095000
+    second: compressed_67
+  - first:
+      213: -6121200903160960300
+    second: compressed_68
+  - first:
+      213: -2926940241597385539
+    second: compressed_69
+  - first:
+      213: 1945647155930514703
+    second: compressed_70
+  - first:
+      213: -2049490018842637735
+    second: compressed_71
+  - first:
+      213: -2756736799516861892
+    second: compressed_72
+  - first:
+      213: 5694866494603402351
+    second: compressed_73
+  - first:
+      213: -4781148795284210609
+    second: compressed_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kardus_0
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 7619
+        width: 300
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67dac0f7ee1e41078882abf61f785a0
+      internalID: 79776693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_1
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 7619
+        width: 302
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9403ff11804b44149ffe85f96e0cef1
+      internalID: 10834703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_2
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 7619
+        width: 300
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25edc02b2bfc34ac7ba250e79c38f7b6
+      internalID: -1681149558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_3
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 7616
+        width: 300
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0820522e5e745a095b66d94c90b6b7
+      internalID: 2026463250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_4
+      rect:
+        serializedVersion: 2
+        x: 4169
+        y: 7616
+        width: 305
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb15c083f7314448ba97169b96bd63f1
+      internalID: -279362267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7074
+        width: 308
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9905666c1fa044c459605ecf45687df1
+      internalID: 391667753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_6
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 7070
+        width: 308
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ff908b2df7c4ce2b0caac5c6222608
+      internalID: 1966232415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_7
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 7066
+        width: 312
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbea177ab0b244e4c833eabd0d4d3589
+      internalID: 696177300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_8
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 7062
+        width: 316
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04edffa6a2e6c4d20a3993cac4490598
+      internalID: -1854899050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_9
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 7058
+        width: 317
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5970cb4e7f03e4e6e8380f18ee434383
+      internalID: -950350258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_10
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 6514
+        width: 320
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45889564e2f347e1baab49237ac6414
+      internalID: -661223572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_11
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 6508
+        width: 316
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2642137ed14f641be827a9194145e02b
+      internalID: 462615461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_12
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 6504
+        width: 320
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02cf11ea41e64d74a64a573caeb2cb1
+      internalID: -1042976848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_13
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 6500
+        width: 316
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf3d474cfd0945fdbe2d9858996acdb
+      internalID: -1190014566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_14
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 6497
+        width: 314
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a91ef09c33c46a7ae6d2257a4219f4
+      internalID: 643779767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 5954
+        width: 305
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2392883202a0c46ea87447607ad4223c
+      internalID: 1798859695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_16
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 5954
+        width: 301
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058dfffd2b1044ac38d55c9ff7aebb12
+      internalID: -1130237542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_17
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 5950
+        width: 288
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17463b676cb9848cbb67ba258cb19071
+      internalID: 262226044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_18
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 5950
+        width: 273
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d706f2742cb654fdd9808efef202fd7e
+      internalID: 810863989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_19
+      rect:
+        serializedVersion: 2
+        x: 4185
+        y: 5950
+        width: 257
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ecf8ec5c037427589912fa0260c9ac
+      internalID: -297683560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_20
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 5413
+        width: 241
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5334039053d04e8ca93c97339c2bed0
+      internalID: 1114161718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_21
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 5413
+        width: 225
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8f5d08eb45f46f991e8ee363f295cc
+      internalID: -1503489211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_22
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 5417
+        width: 202
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ce602eaa33f40cb808df0e69f04c9e
+      internalID: 82000317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_23
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 5420
+        width: 174
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853906c40a853409fa2f2ac94c1faee1
+      internalID: 178582575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_24
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 5424
+        width: 178
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25b818e2bfdc4a2da564ffa92a5a098
+      internalID: -201583242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_25
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 4887
+        width: 201
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f7a4ec202a24d43ad9c4400c5a64cf
+      internalID: 492663104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_26
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 4887
+        width: 224
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ecbae62363f430dac68c4c3c91b86f
+      internalID: -8753013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_27
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 4891
+        width: 246
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1ef83d4371e400ab7acb64ab7fcde1
+      internalID: -1383497599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_28
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 4894
+        width: 265
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f158a3fbbcb564e2f92146222978a5d2
+      internalID: 1210457641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_29
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 4898
+        width: 285
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e6be39f440941b1832f2d9cde038af
+      internalID: 407646623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_30
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4364
+        width: 301
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0466fcb99c082414c8321d390743e11e
+      internalID: 1609193557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_31
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 4368
+        width: 308
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68adf6f88c4d47e2a50cf4802e4374b
+      internalID: 1172168841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_32
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 4369
+        width: 312
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9d615842f424f3aae90f585d549763
+      internalID: -1352492119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_33
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 4373
+        width: 316
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab4ad1f33fc4baca520b360a16ee98
+      internalID: -416487201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_34
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 4376
+        width: 313
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6ff1de7418140ffbbbde97d8d41c88
+      internalID: 741603659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_35
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3838
+        width: 309
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b65a6dfe7aad4c9db455387950af6db
+      internalID: -1708958372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_36
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 3838
+        width: 304
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32f3893fcf804a4ea3ef464b0e9b062
+      internalID: -382245824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_37
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 3835
+        width: 304
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7534c2c963ee54727b37efbeed8db1e6
+      internalID: 455807848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_38
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 3834
+        width: 308
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006868d8914ce400bb1e1f30b6e8ceff
+      internalID: 1087403533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_39
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 3831
+        width: 317
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6751e0006a55b4802a044397be78c1f9
+      internalID: 1481006073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_40
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3289
+        width: 320
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec72b0515f8924246a0acbc9e01a12c4
+      internalID: -1878751229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_41
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 3285
+        width: 312
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4116c9ebe81654fb0ba7971bdf6d16f5
+      internalID: -295328777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_42
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 3281
+        width: 306
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085bff99da6b7432a97e297585f0fb8a
+      internalID: -482148625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_43
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 3277
+        width: 292
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a7bfc7b7f8441c3b74d7fb8d219a8d
+      internalID: -1454867489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_44
+      rect:
+        serializedVersion: 2
+        x: 4173
+        y: 3273
+        width: 281
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f4f27560a3148b1b4547e19577135b
+      internalID: -618756485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_45
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2731
+        width: 264
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a7e0fa3c86641acbd79bcd978e0efc
+      internalID: -1799448335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_46
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 2727
+        width: 241
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6a2ea938ff34192ab055461d4b6a02
+      internalID: -591582031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_47
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 2727
+        width: 218
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba5c3dcf9aa94ee5a4caedcc48dbfa5
+      internalID: -540501597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_48
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2723
+        width: 201
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb1b4acbd3c84aa796f792c8f35c34f
+      internalID: 2042113295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_49
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 2723
+        width: 197
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1167b2e2efa46fcb725dea5832527a
+      internalID: 611922684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_50
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2177
+        width: 194
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c79f792667540498911c3162851941
+      internalID: 1379466936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_51
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 2174
+        width: 210
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f097f4bf35d184c3fb05699dde2515df
+      internalID: -1106907186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_52
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 2173
+        width: 229
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14512794430a0422bbf45bf4695932c3
+      internalID: -491391856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_53
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2169
+        width: 249
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efa976b645c54b59ab24662000f775b
+      internalID: 74215374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_54
+      rect:
+        serializedVersion: 2
+        x: 4205
+        y: 2169
+        width: 261
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671f0e36518a44e95a70a7ca91e500b8
+      internalID: -1969976485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_55
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1628
+        width: 279
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fdb4dd0c69f4d9bb4c6e7e26af3734
+      internalID: -1704711869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_56
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1628
+        width: 288
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d10b2d3a9eda4f80b3b3fe60a506513
+      internalID: 583459938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_57
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1628
+        width: 296
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e6ecc12668748daa2b473191372865
+      internalID: -933970852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_58
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 1631
+        width: 305
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c3658d440194d429f402bfef7c57de
+      internalID: -954011211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_59
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 1632
+        width: 311
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0797a88f88008470484a6267371c9e41
+      internalID: 859743199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_60
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1094
+        width: 313
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e114bf60ae8f44a68b7b14e10468b4f
+      internalID: -1442562930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_61
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1098
+        width: 312
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc7db56bb5b84d3b9c62ed884bee049
+      internalID: 419341990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_62
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1102
+        width: 312
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad13c4ffba0974632a4f5893f179d56f
+      internalID: 639940612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_63
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 1106
+        width: 308
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a36d872fbe44558ad9c93f33298129
+      internalID: 618015429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_64
+      rect:
+        serializedVersion: 2
+        x: 4162
+        y: 1110
+        width: 308
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4874608604ad4b04be452616b4afbf7
+      internalID: 1200459266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_65
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 575
+        width: 304
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1082bbbae75184aa7a6cfa45882b7aee
+      internalID: -2095524552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_66
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 579
+        width: 300
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f17cc18ee8b748f2a2f87f7b63c5190
+      internalID: -1098430224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_67
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 583
+        width: 296
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738168691a638433ba3bc4d09f981b4b
+      internalID: -1957098804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_68
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 587
+        width: 300
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc25f254a8834467ab10fbb6572d8f04
+      internalID: -1928055316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_69
+      rect:
+        serializedVersion: 2
+        x: 4169
+        y: 591
+        width: 301
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268f2facdc6c544a59ac3457b2697851
+      internalID: 1715842669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 53
+        width: 301
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c01a07d5562142e2bc80ef1dee62513
+      internalID: 1221683364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_71
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 57
+        width: 300
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f09ac3cc2464b4bafc82f36a5a40b0
+      internalID: -1615329170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_72
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 57
+        width: 300
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a388a3a430b429180f72343fae059d
+      internalID: 1221647236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_73
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 58
+        width: 300
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf885e92fbbc4705b4aca5f187c6696
+      internalID: -576050631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kardus_74
+      rect:
+        serializedVersion: 2
+        x: 4173
+        y: 59
+        width: 301
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb0a5bc1fca24b36ad18b8a7b01185d
+      internalID: 1591157087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2bd90e7f90ef14b2e8945cdbcdeacf86
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kardus_0: 79776693
+      Kardus_1: 10834703
+      Kardus_10: -661223572
+      Kardus_11: 462615461
+      Kardus_12: -1042976848
+      Kardus_13: -1190014566
+      Kardus_14: 643779767
+      Kardus_15: 1798859695
+      Kardus_16: -1130237542
+      Kardus_17: 262226044
+      Kardus_18: 810863989
+      Kardus_19: -297683560
+      Kardus_2: -1681149558
+      Kardus_20: 1114161718
+      Kardus_21: -1503489211
+      Kardus_22: 82000317
+      Kardus_23: 178582575
+      Kardus_24: -201583242
+      Kardus_25: 492663104
+      Kardus_26: -8753013
+      Kardus_27: -1383497599
+      Kardus_28: 1210457641
+      Kardus_29: 407646623
+      Kardus_3: 2026463250
+      Kardus_30: 1609193557
+      Kardus_31: 1172168841
+      Kardus_32: -1352492119
+      Kardus_33: -416487201
+      Kardus_34: 741603659
+      Kardus_35: -1708958372
+      Kardus_36: -382245824
+      Kardus_37: 455807848
+      Kardus_38: 1087403533
+      Kardus_39: 1481006073
+      Kardus_4: -279362267
+      Kardus_40: -1878751229
+      Kardus_41: -295328777
+      Kardus_42: -482148625
+      Kardus_43: -1454867489
+      Kardus_44: -618756485
+      Kardus_45: -1799448335
+      Kardus_46: -591582031
+      Kardus_47: -540501597
+      Kardus_48: 2042113295
+      Kardus_49: 611922684
+      Kardus_5: 391667753
+      Kardus_50: 1379466936
+      Kardus_51: -1106907186
+      Kardus_52: -491391856
+      Kardus_53: 74215374
+      Kardus_54: -1969976485
+      Kardus_55: -1704711869
+      Kardus_56: 583459938
+      Kardus_57: -933970852
+      Kardus_58: -954011211
+      Kardus_59: 859743199
+      Kardus_6: 1966232415
+      Kardus_60: -1442562930
+      Kardus_61: 419341990
+      Kardus_62: 639940612
+      Kardus_63: 618015429
+      Kardus_64: 1200459266
+      Kardus_65: -2095524552
+      Kardus_66: -1098430224
+      Kardus_67: -1957098804
+      Kardus_68: -1928055316
+      Kardus_69: 1715842669
+      Kardus_7: 696177300
+      Kardus_70: 1221683364
+      Kardus_71: -1615329170
+      Kardus_72: 1221647236
+      Kardus_73: -576050631
+      Kardus_74: 1591157087
+      Kardus_8: -1854899050
+      Kardus_9: -950350258
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: 15c6d87a1928747afadf4a105447a9b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7032184553362833509
+    second: Can_0
+  - first:
+      213: 8933446878427001378
+    second: Can_1
+  - first:
+      213: 7035461132062161893
+    second: Can_2
+  - first:
+      213: -9000640866699670843
+    second: Can_3
+  - first:
+      213: 4096368469380774339
+    second: Can_4
+  - first:
+      213: -7585351301439665548
+    second: Can_5
+  - first:
+      213: -3624227786663828251
+    second: Can_6
+  - first:
+      213: -7140492352031039350
+    second: Can_7
+  - first:
+      213: 3249436968635729972
+    second: Can_8
+  - first:
+      213: -5343956299818678856
+    second: Can_9
+  - first:
+      213: 156196011698454868
+    second: Can_10
+  - first:
+      213: -8973506923396756675
+    second: Can_11
+  - first:
+      213: -4371288949323901508
+    second: Can_12
+  - first:
+      213: 4378462866051167727
+    second: Can_13
+  - first:
+      213: -5978993662164206784
+    second: Can_14
+  - first:
+      213: -6316062022180120477
+    second: Can_15
+  - first:
+      213: 6830872480599117157
+    second: Can_16
+  - first:
+      213: 1192526979787558498
+    second: Can_17
+  - first:
+      213: 2446374241355748448
+    second: Can_18
+  - first:
+      213: 5653169996991215219
+    second: Can_19
+  - first:
+      213: -848539706906304831
+    second: Can_20
+  - first:
+      213: -5599523116408050586
+    second: Can_21
+  - first:
+      213: 8744336006352012256
+    second: Can_22
+  - first:
+      213: 4744769315542569986
+    second: Can_23
+  - first:
+      213: 6629813421220292306
+    second: Can_24
+  - first:
+      213: 1974346627831118507
+    second: Can_25
+  - first:
+      213: -624279106390315573
+    second: Can_26
+  - first:
+      213: -6561596353419967675
+    second: Can_27
+  - first:
+      213: -6290843161372260945
+    second: Can_28
+  - first:
+      213: -5252310426318438044
+    second: Can_29
+  - first:
+      213: -6850770848291876687
+    second: Can_30
+  - first:
+      213: -503809083551276415
+    second: Can_31
+  - first:
+      213: 1532972111852274083
+    second: Can_32
+  - first:
+      213: 2387074323266918692
+    second: Can_33
+  - first:
+      213: 376697507798180649
+    second: Can_34
+  - first:
+      213: -513392600644361669
+    second: Can_35
+  - first:
+      213: 383072860544904673
+    second: Can_36
+  - first:
+      213: 8806243692222425264
+    second: Can_37
+  - first:
+      213: 9030610468407290211
+    second: Can_38
+  - first:
+      213: -501357503047582220
+    second: Can_39
+  - first:
+      213: 7634465469540507942
+    second: Can_40
+  - first:
+      213: 3104753744395325063
+    second: Can_41
+  - first:
+      213: -3460251968222353875
+    second: Can_42
+  - first:
+      213: 6230556970998912332
+    second: Can_43
+  - first:
+      213: 4686167846359734980
+    second: Can_44
+  - first:
+      213: -4338535040542327921
+    second: Can_45
+  - first:
+      213: 8967776804460007886
+    second: Can_46
+  - first:
+      213: -6689335140727926908
+    second: Can_47
+  - first:
+      213: 1121416044928949728
+    second: Can_48
+  - first:
+      213: -7883289146477251210
+    second: Can_49
+  - first:
+      213: 7829569515413048909
+    second: Can_50
+  - first:
+      213: -4654922236837266034
+    second: Can_51
+  - first:
+      213: 2263171286471756335
+    second: Can_52
+  - first:
+      213: 1990805318695163560
+    second: Can_53
+  - first:
+      213: -8759493259423835309
+    second: Can_54
+  - first:
+      213: -8607240606830388754
+    second: Can_55
+  - first:
+      213: -8519004060904044607
+    second: Can_56
+  - first:
+      213: -5651221473104430531
+    second: Can_57
+  - first:
+      213: 1619152192549405762
+    second: Can_58
+  - first:
+      213: -6137750709385705331
+    second: Can_59
+  - first:
+      213: 8195768517683778612
+    second: Can_60
+  - first:
+      213: -3263528950073717819
+    second: Can_61
+  - first:
+      213: -9060582937470167194
+    second: Can_62
+  - first:
+      213: 9103199015728627664
+    second: Can_63
+  - first:
+      213: 4817322166597854282
+    second: Can_64
+  - first:
+      213: -8292326480049282118
+    second: Can_65
+  - first:
+      213: 2737907335306952892
+    second: Can_66
+  - first:
+      213: -3643875028104353483
+    second: Can_67
+  - first:
+      213: -4647695635966190011
+    second: Can_68
+  - first:
+      213: 7032790939206468187
+    second: Can_69
+  - first:
+      213: 5177521911277896748
+    second: Can_70
+  - first:
+      213: -5023690550851853373
+    second: Can_71
+  - first:
+      213: -7972247477196822692
+    second: Can_72
+  - first:
+      213: 6022417009881268269
+    second: Can_73
+  - first:
+      213: 4711598053744936244
+    second: Can_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Can_0
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 7679
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954c474e56ccc43fba48c242661a044f
+      internalID: 1057515305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_1
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 7679
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9cdf1d013994a3f926fd2fdf30acef
+      internalID: 962490545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_2
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 7679
+        width: 168
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fec9328f1b284a2f82a0f58ece919db
+      internalID: -1682295288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_3
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 7675
+        width: 169
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537010b61df304c4fa45bdabf5bed597
+      internalID: -708020900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_4
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 7675
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f8cd1c162604af19d599ba5db10e94
+      internalID: -1062041070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 7133
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bca2a580c0594083999636a0f0f3d97
+      internalID: 363020730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_6
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 7129
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee71876d1e8454788bccf9a0daf16203
+      internalID: -1855305926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_7
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 7129
+        width: 169
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56064c9dbe87949259c2706efa0657e7
+      internalID: 2102847556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_8
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 7125
+        width: 169
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffedef55cbaa4aa4a26bf4c52bde016
+      internalID: -1084611144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_9
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 7125
+        width: 166
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c102b962e724bb4b08a7dbae4f60ec
+      internalID: -59659039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 6580
+        width: 166
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2581ed04cfa614195958aae32df5b094
+      internalID: 1901321885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_11
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 6579
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ecf6d4fde8b43e0b45ba6c48078d83
+      internalID: -127246453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_12
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 6576
+        width: 168
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c8a561bdc2e4142b2deb03acfff6f4
+      internalID: 409066431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_13
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 6575
+        width: 168
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666e8566594fe48c0bf9a7c1c2701673
+      internalID: -1763102801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_14
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 6572
+        width: 166
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c88eb4250a54a47a35bfd051239307
+      internalID: 1330472209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 6033
+        width: 166
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82009349164f459cb97d8015a249671
+      internalID: -44253575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_16
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 6030
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eac5ed85591b4ce9a45ed36beae0164
+      internalID: 1180389976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_17
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 6030
+        width: 169
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbe351dae94449699a3015778d4b254
+      internalID: -648775005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_18
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 6030
+        width: 169
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b3bcc5f6d274ba396a8ea46e0ab232
+      internalID: -528378965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_19
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 6030
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ef760b5e0014e0e8fa030f7f250547
+      internalID: -1148258724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 5492
+        width: 166
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf157ebbb3d248a793236ad453cbb60
+      internalID: -1667305036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_21
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 5492
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c885b3fca05a460fbd90953ba6e36ff
+      internalID: -1607615440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_22
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 5492
+        width: 168
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ef52a17f4bd4174b9ac38f89aaa9fd
+      internalID: 935129585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_23
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 5496
+        width: 166
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d60e6c204344d3ca3abc9ceb53c288
+      internalID: 396503722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_24
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 5496
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1c14304cbbc4eb181da9ad6d5699e8
+      internalID: -788888916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_25
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 4958
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de96984529da442a3bf597c44965ed35
+      internalID: 739017448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_26
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 4962
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc35a33bf85304361bda5b073e14c3e4
+      internalID: -1891318416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_27
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 4963
+        width: 169
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7da67047c6448319c3180f26e84c3d
+      internalID: -1254920273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_28
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 4966
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168ce40218a6e4c5ba83d54cd272514b
+      internalID: -1715053370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_29
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 4970
+        width: 166
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15bd59b38ca74102be0c2e9cded9df4
+      internalID: -779019125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_30
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 4432
+        width: 166
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa2b253711dd47e1ae3a0154c39bbe9
+      internalID: -865425524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_31
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 4432
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6ddf3e2ff2140f898b6d488c098844
+      internalID: -586712829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_32
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 4436
+        width: 169
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f22982abc86457088a70eed2b938c6
+      internalID: 26851398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_33
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 4436
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fcbd6ec57524ee298d9679b11560ca
+      internalID: -1606428306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_34
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 4436
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2d269ba572648deb84d9e3b5bfc03c
+      internalID: 1799678145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_35
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3898
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d63c8725e1784fe2aa79584d044e345
+      internalID: 517807392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_36
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 3898
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7929768a5899458bac5942ca5d8a7f6
+      internalID: -664432917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_37
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 3898
+        width: 168
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff0d7f475d4d438283d104ec81cd927
+      internalID: -626253771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_38
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 3898
+        width: 168
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3957dd4b917394d9cb3183dc89a8e22c
+      internalID: 611580986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_39
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 3898
+        width: 166
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b498c3b4c1c0a455cb094bb18286aa21
+      internalID: 1365468711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_40
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3356
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30558407abc654851bb90189a4c0b318
+      internalID: -1634959902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_41
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 3353
+        width: 166
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96391fbefacde4e4aa424b2c40ee5a3e
+      internalID: -490449988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_42
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 3352
+        width: 169
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be928e01ae6cf4d729385ca42d228519
+      internalID: 1340214245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_43
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 3352
+        width: 169
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e264c8b45f64039a1c3b30a2022f50
+      internalID: -624707951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_44
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 3348
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daf25c948a0e49079aef8305b202dd2
+      internalID: 1186286773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_45
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2806
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea39da47ec74d49aa8673e6faf1362f4
+      internalID: 24934384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_46
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 2803
+        width: 166
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b94d2be39d04a7fb9ed89548199e3a
+      internalID: 1095362220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_47
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 2802
+        width: 169
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e854fd123474e5f9213068ae749926
+      internalID: -1987749643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_48
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 2798
+        width: 169
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a142c52dc338440a9f979297873b710
+      internalID: 523714281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_49
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 2798
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d513461c649440ea4e610bdd68e64f
+      internalID: 1680578489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_50
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2256
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5114219f73fc8492ab83bbc47572d27c
+      internalID: -1752610669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_51
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 2253
+        width: 166
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293adabd664c84729bf7fab1a33d32c4
+      internalID: 1458085467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_52
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 2252
+        width: 168
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd99aedef02c347faab892667acf7e26
+      internalID: -235760349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_53
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 2252
+        width: 169
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d54087cc7bb41bdbef1667b7c16f5a
+      internalID: 1771362677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_54
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 2249
+        width: 166
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59b59120122e4e4895f2d664d093a7a
+      internalID: -1330677763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_55
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1711
+        width: 166
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bb6183cebb6412b9013cfc218cb4a4
+      internalID: 1179572412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_56
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1711
+        width: 166
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fbb0ed62d21491eba247b7522418c3
+      internalID: -835763236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_57
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 1711
+        width: 168
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c713085448c44d4b2aa0fe96d5d9f8
+      internalID: 1837734515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_58
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 1711
+        width: 169
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2aea662611746f3b3e8363982d61d7
+      internalID: -1672395319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_59
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 1711
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b7b7ca7e61f4883a049bf37d345766
+      internalID: 28264689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_60
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1173
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f568803bed1664668b459ff8680e542f
+      internalID: 321564891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_61
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1177
+        width: 166
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344b293cb66ae45ea85226f35e3e88d6
+      internalID: -821452677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_62
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 1177
+        width: 168
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e9b9c0e19c344ac81f3fe74eb6f7de
+      internalID: 737191674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_63
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 1181
+        width: 168
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c3732813af84736ade7e215d93d450
+      internalID: 1926379186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_64
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 1181
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a2a68ecb3e54b12b2f822354a4b6c1
+      internalID: 964470615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_65
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 643
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5b910abb30b46faa2c7f3f766ef30f
+      internalID: 714546483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_66
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 647
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276bdff77f3a743fcb57f6f8ad90dfa4
+      internalID: 1493519035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_67
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 647
+        width: 169
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6464e41f0cf425eaa0d6758d771f51
+      internalID: -553114191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_68
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 651
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a7076095c904a02b1ee0feb5a7958e
+      internalID: 1449574164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_69
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 651
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1f2dc2f3410413fb5c54fd437d640b
+      internalID: -192759541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_70
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 113
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d37350346d5c4d6aad4e44cfb9ce547
+      internalID: 680030186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_71
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 117
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904b8fcad109b400b99f1b245ddb1a0a
+      internalID: -432556958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_72
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 117
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eb3e27721ee4e68948b6ef3e34b308
+      internalID: 265905823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_73
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 117
+        width: 169
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4024a916fb9ec41b98fe9ca63a32b935
+      internalID: -902302739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Can_74
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 117
+        width: 166
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1be7fee54a94c6c82c32b5cc209d5d
+      internalID: -527633800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 142f0c4f476a44fb1b3348ff3209c32d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Can_0: 1057515305
+      Can_1: 962490545
+      Can_10: 1901321885
+      Can_11: -127246453
+      Can_12: 409066431
+      Can_13: -1763102801
+      Can_14: 1330472209
+      Can_15: -44253575
+      Can_16: 1180389976
+      Can_17: -648775005
+      Can_18: -528378965
+      Can_19: -1148258724
+      Can_2: -1682295288
+      Can_20: -1667305036
+      Can_21: -1607615440
+      Can_22: 935129585
+      Can_23: 396503722
+      Can_24: -788888916
+      Can_25: 739017448
+      Can_26: -1891318416
+      Can_27: -1254920273
+      Can_28: -1715053370
+      Can_29: -779019125
+      Can_3: -708020900
+      Can_30: -865425524
+      Can_31: -586712829
+      Can_32: 26851398
+      Can_33: -1606428306
+      Can_34: 1799678145
+      Can_35: 517807392
+      Can_36: -664432917
+      Can_37: -626253771
+      Can_38: 611580986
+      Can_39: 1365468711
+      Can_4: -1062041070
+      Can_40: -1634959902
+      Can_41: -490449988
+      Can_42: 1340214245
+      Can_43: -624707951
+      Can_44: 1186286773
+      Can_45: 24934384
+      Can_46: 1095362220
+      Can_47: -1987749643
+      Can_48: 523714281
+      Can_49: 1680578489
+      Can_5: 363020730
+      Can_50: -1752610669
+      Can_51: 1458085467
+      Can_52: -235760349
+      Can_53: 1771362677
+      Can_54: -1330677763
+      Can_55: 1179572412
+      Can_56: -835763236
+      Can_57: 1837734515
+      Can_58: -1672395319
+      Can_59: 28264689
+      Can_6: -1855305926
+      Can_60: 321564891
+      Can_61: -821452677
+      Can_62: 737191674
+      Can_63: 1926379186
+      Can_64: 964470615
+      Can_65: 714546483
+      Can_66: 1493519035
+      Can_67: -553114191
+      Can_68: 1449574164
+      Can_69: -192759541
+      Can_7: 2102847556
+      Can_70: 680030186
+      Can_71: -432556958
+      Can_72: 265905823
+      Can_73: -902302739
+      Can_74: -527633800
+      Can_8: -1084611144
+      Can_9: -59659039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

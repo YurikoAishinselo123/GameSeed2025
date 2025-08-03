@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 2a4d9921d1d164f09ab5b5d4a5cb1dd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2047941687562777420
+    second: sprite_sheet ikan player_0
+  - first:
+      213: -7020075243140103368
+    second: sprite_sheet ikan player_1
+  - first:
+      213: -7266571044757467098
+    second: sprite_sheet ikan player_2
+  - first:
+      213: -7767645114865536676
+    second: sprite_sheet ikan player_3
+  - first:
+      213: -6181669999811428949
+    second: sprite_sheet ikan player_4
+  - first:
+      213: -1323935112983323315
+    second: sprite_sheet ikan player_5
+  - first:
+      213: -5761945717169746869
+    second: sprite_sheet ikan player_6
+  - first:
+      213: -3729709696021629065
+    second: sprite_sheet ikan player_7
+  - first:
+      213: 6127895234936714169
+    second: sprite_sheet ikan player_8
+  - first:
+      213: 411229791310302450
+    second: sprite_sheet ikan player_9
+  - first:
+      213: -8517627260499251794
+    second: sprite_sheet ikan player_10
+  - first:
+      213: -2402693519933584883
+    second: sprite_sheet ikan player_11
+  - first:
+      213: 5282727201006571731
+    second: sprite_sheet ikan player_12
+  - first:
+      213: 3345170398049062098
+    second: sprite_sheet ikan player_13
+  - first:
+      213: 2904809238707354697
+    second: sprite_sheet ikan player_14
+  - first:
+      213: 1659248609735167725
+    second: sprite_sheet ikan player_15
+  - first:
+      213: 7325862890915400917
+    second: sprite_sheet ikan player_16
+  - first:
+      213: -3791294282666259905
+    second: sprite_sheet ikan player_17
+  - first:
+      213: -9048494251620776973
+    second: sprite_sheet ikan player_18
+  - first:
+      213: -6452364503719720564
+    second: sprite_sheet ikan player_19
+  - first:
+      213: 3793560927340679403
+    second: sprite_sheet ikan player_20
+  - first:
+      213: -7604189116812805422
+    second: sprite_sheet ikan player_21
+  - first:
+      213: -373286387337925593
+    second: sprite_sheet ikan player_22
+  - first:
+      213: 2008265663976248531
+    second: sprite_sheet ikan player_23
+  - first:
+      213: -7209987444225759946
+    second: sprite_sheet ikan player_24
+  - first:
+      213: -6985412262840310555
+    second: sprite_sheet ikan player_25
+  - first:
+      213: -1012209486057890085
+    second: sprite_sheet ikan player_26
+  - first:
+      213: 3707907755777175187
+    second: sprite_sheet ikan player_27
+  - first:
+      213: -1613157950570251081
+    second: sprite_sheet ikan player_28
+  - first:
+      213: 3659991387087563113
+    second: sprite_sheet ikan player_29
+  - first:
+      213: 3142690894432317597
+    second: sprite_sheet ikan player_30
+  - first:
+      213: -7742946711696691175
+    second: sprite_sheet ikan player_31
+  - first:
+      213: 1849972392043278834
+    second: sprite_sheet ikan player_32
+  - first:
+      213: 1380902638438658926
+    second: sprite_sheet ikan player_33
+  - first:
+      213: -1696363649417156005
+    second: sprite_sheet ikan player_34
+  - first:
+      213: -2174434928155032375
+    second: sprite_sheet ikan player_35
+  - first:
+      213: -1229482380310141506
+    second: sprite_sheet ikan player_36
+  - first:
+      213: 2010205170011233704
+    second: sprite_sheet ikan player_37
+  - first:
+      213: -5435791622126521887
+    second: sprite_sheet ikan player_38
+  - first:
+      213: 7405598452206316337
+    second: sprite_sheet ikan player_39
+  - first:
+      213: -6484746708038173986
+    second: sprite_sheet ikan player_40
+  - first:
+      213: 6196394841424347480
+    second: sprite_sheet ikan player_41
+  - first:
+      213: -772653362578474842
+    second: sprite_sheet ikan player_42
+  - first:
+      213: -2271654394325126714
+    second: sprite_sheet ikan player_43
+  - first:
+      213: -5319318912335338972
+    second: sprite_sheet ikan player_44
+  - first:
+      213: -7161715594710893718
+    second: sprite_sheet ikan player_45
+  - first:
+      213: -7802459490750188512
+    second: sprite_sheet ikan player_46
+  - first:
+      213: -8251593187554754014
+    second: sprite_sheet ikan player_47
+  - first:
+      213: 9053980779000793066
+    second: sprite_sheet ikan player_48
+  - first:
+      213: 6627175466460362961
+    second: sprite_sheet ikan player_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_0
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 4887
+        width: 359
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a41347355f14431a6f5afa29993a10
+      internalID: 633650168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_1
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 4887
+        width: 359
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daac3368354a94df88cdf909ccfc0482
+      internalID: 1595539422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_2
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 4887
+        width: 359
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b667f496c714df0b60c000a62420e8
+      internalID: 212588510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_3
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 4887
+        width: 359
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64556000fc3324e3581656b025d0c81f
+      internalID: -1008065542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_4
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 4887
+        width: 366
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba847130982ff4a548941bfdc9c074ed
+      internalID: 1941117822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 4347
+        width: 375
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7277a7dec0494cc38bc6f6060cf7417
+      internalID: -1271588157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_6
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 4347
+        width: 380
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5919e35d86b664d198ff04359f5ad49e
+      internalID: -1164208955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_7
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 4344
+        width: 390
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baea242b00e841d08330fafd0614055
+      internalID: 486298183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_8
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 4344
+        width: 407
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67570334b4c04042b678ec8d075ae52
+      internalID: -656149391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_9
+      rect:
+        serializedVersion: 2
+        x: 4063
+        y: 4344
+        width: 427
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130b3d928263c4802ae072d3150c9743
+      internalID: 958435718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3803
+        width: 451
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d34b225a05454defb3c738dade831a0
+      internalID: -1677869201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_11
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 3803
+        width: 474
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209b7fab483484c0e8373f6336e8bb10
+      internalID: 494941067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_12
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 3801
+        width: 498
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd219de0134946d99908dba98797ebe
+      internalID: 1698603829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_13
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 3801
+        width: 522
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb74bf05598b4630b0b3c495d66d4f7
+      internalID: 599249963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_14
+      rect:
+        serializedVersion: 2
+        x: 4055
+        y: 3801
+        width: 541
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b322a7983c6406a9796ffa57a4308d
+      internalID: 1724132505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3260
+        width: 559
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778bc1378ae1948908928e8d52454ec3
+      internalID: 189981118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_16
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 3260
+        width: 577
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1842cdcd2bb4f2ba7d08031ba2892f
+      internalID: 383792687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_17
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3260
+        width: 588
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bb2bc312e8340059ca7055f0add9ee
+      internalID: 750873452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_18
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 3260
+        width: 593
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833fe51988f9e47b3b37e1e6bc84660d
+      internalID: 211395852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_19
+      rect:
+        serializedVersion: 2
+        x: 4047
+        y: 3260
+        width: 601
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f6b64d1894048f392f630f39807fa7
+      internalID: -1726750018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2717
+        width: 601
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b7ee2f26ac249b9bf2f55809335c29
+      internalID: -1735901241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_21
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 2717
+        width: 601
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f249ec0f6fcfe42f1ab6d624d04f9692
+      internalID: -1700102787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_22
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 2717
+        width: 599
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9208491be6d4a708deeac5d3e4348c
+      internalID: 9130699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_23
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 2717
+        width: 599
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97538c8c5f69b4df8b4a1c3c62e9eb23
+      internalID: 2087786670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_24
+      rect:
+        serializedVersion: 2
+        x: 4047
+        y: 2717
+        width: 596
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f205499987fa4f6d89262e5f1835882
+      internalID: -174450252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2179
+        width: 596
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2811a5c170aa5417f960d010dd25fa4b
+      internalID: -287503501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_26
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 2179
+        width: 596
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c417ff5ea346a420f986afcb2ea4985f
+      internalID: 1693263647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_27
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 2179
+        width: 596
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251435becbf32487fa25d74623fb12c0
+      internalID: -2130908209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_28
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 2179
+        width: 596
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e135b15e13ef64142a201d17a01162d6
+      internalID: -1954468897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_29
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 2179
+        width: 596
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6defbfdb37ccc48308a0f77cd0e8de54
+      internalID: 140039352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1639
+        width: 595
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344271a9bdae44ef49d1825f36ed4406
+      internalID: -1307608869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_31
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1639
+        width: 593
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcbf8d6501b14ebd9a82e33e532d8e0
+      internalID: -24018411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_32
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1641
+        width: 586
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dfa29d61dce40f2b369a6fdc2d16c7
+      internalID: -1011540629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_33
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 1641
+        width: 578
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b674052203be48bc87f6fe3e741b91d
+      internalID: 99662363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_34
+      rect:
+        serializedVersion: 2
+        x: 4055
+        y: 1641
+        width: 567
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563a67b95596648aebf0525ea6085da2
+      internalID: 1086564728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_35
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1101
+        width: 554
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7211efa7d291141b99622cf05c478050
+      internalID: -1751314594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_36
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1103
+        width: 535
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d141aa71dc947dea7ba94f777fa07e
+      internalID: -1549575252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_37
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 1103
+        width: 517
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d8eea0bad4d45da8a0781d3f7ef426
+      internalID: 1671139831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_38
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1103
+        width: 496
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b23a2ec235e4d5c8ea136dbfe57a52
+      internalID: 332958368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_39
+      rect:
+        serializedVersion: 2
+        x: 4063
+        y: 1104
+        width: 472
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27fcef4857234cf1926cb2ebe25c817
+      internalID: -1722075081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 566
+        width: 451
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4785cf756e80c45b7a5b2a86d5a4938d
+      internalID: 2024329796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_41
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 566
+        width: 427
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06e604356dee42c5abc2cef0bd3459b
+      internalID: 472939994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_42
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 566
+        width: 406
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30126d5b289a4958916e03245de3b6b
+      internalID: -1428715991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_43
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 566
+        width: 388
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c27a1ac91424e889cdfd0aac198f60
+      internalID: 1980382028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_44
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 566
+        width: 372
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03569541f65a4413b165d616cc5bc6d
+      internalID: -1310735081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 28
+        width: 366
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83032b4a67e68400ab9a9a3ddb84c5d0
+      internalID: 1191836609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_46
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 28
+        width: 359
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85836d969846849038005a2324afe25f
+      internalID: 1579781988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_47
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 28
+        width: 359
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3937df64837974b5793df197d3ded48f
+      internalID: -2009331783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_48
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 28
+        width: 359
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d11449fd1cb4d9897f71a77e951324
+      internalID: 1434587588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet ikan player_49
+      rect:
+        serializedVersion: 2
+        x: 4073
+        y: 28
+        width: 359
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a5e835bf2544cd4bc8348ecb92a7ff
+      internalID: 1422329792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e11fc7e13c22a47f0a75bcf3dcd42596
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite_sheet ikan player_0: 633650168
+      sprite_sheet ikan player_1: 1595539422
+      sprite_sheet ikan player_10: -1677869201
+      sprite_sheet ikan player_11: 494941067
+      sprite_sheet ikan player_12: 1698603829
+      sprite_sheet ikan player_13: 599249963
+      sprite_sheet ikan player_14: 1724132505
+      sprite_sheet ikan player_15: 189981118
+      sprite_sheet ikan player_16: 383792687
+      sprite_sheet ikan player_17: 750873452
+      sprite_sheet ikan player_18: 211395852
+      sprite_sheet ikan player_19: -1726750018
+      sprite_sheet ikan player_2: 212588510
+      sprite_sheet ikan player_20: -1735901241
+      sprite_sheet ikan player_21: -1700102787
+      sprite_sheet ikan player_22: 9130699
+      sprite_sheet ikan player_23: 2087786670
+      sprite_sheet ikan player_24: -174450252
+      sprite_sheet ikan player_25: -287503501
+      sprite_sheet ikan player_26: 1693263647
+      sprite_sheet ikan player_27: -2130908209
+      sprite_sheet ikan player_28: -1954468897
+      sprite_sheet ikan player_29: 140039352
+      sprite_sheet ikan player_3: -1008065542
+      sprite_sheet ikan player_30: -1307608869
+      sprite_sheet ikan player_31: -24018411
+      sprite_sheet ikan player_32: -1011540629
+      sprite_sheet ikan player_33: 99662363
+      sprite_sheet ikan player_34: 1086564728
+      sprite_sheet ikan player_35: -1751314594
+      sprite_sheet ikan player_36: -1549575252
+      sprite_sheet ikan player_37: 1671139831
+      sprite_sheet ikan player_38: 332958368
+      sprite_sheet ikan player_39: -1722075081
+      sprite_sheet ikan player_4: 1941117822
+      sprite_sheet ikan player_40: 2024329796
+      sprite_sheet ikan player_41: 472939994
+      sprite_sheet ikan player_42: -1428715991
+      sprite_sheet ikan player_43: 1980382028
+      sprite_sheet ikan player_44: -1310735081
+      sprite_sheet ikan player_45: 1191836609
+      sprite_sheet ikan player_46: 1579781988
+      sprite_sheet ikan player_47: -2009331783
+      sprite_sheet ikan player_48: 1434587588
+      sprite_sheet ikan player_49: 1422329792
+      sprite_sheet ikan player_5: -1271588157
+      sprite_sheet ikan player_6: -1164208955
+      sprite_sheet ikan player_7: 486298183
+      sprite_sheet ikan player_8: -656149391
+      sprite_sheet ikan player_9: 958435718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
