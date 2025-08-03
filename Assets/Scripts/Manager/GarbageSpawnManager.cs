@@ -6,7 +6,7 @@ public class GarbageSpawnManager : MonoBehaviour
     [Header("Spawn Settings")]
     [SerializeField] private List<CollectibleDataSO> garbageList; // Your SO list with prefab & name
     private float spawnInterval = 6f;
-    private float spawnY = 5f;
+    private float spawnY = 3f;
     private float minX = -35f;
     private float maxX = 35f;
     private int maxGarbageCount = 8;
