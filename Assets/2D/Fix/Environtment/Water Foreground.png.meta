@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6d36c6f9c1bd8bd4c99ab09ec73d9325
+guid: 0225d0e39b9d147e9aaea7417ea66e6b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4660550624656551254
-    second: HiPaint_1754197725805_0
+      213: -6744464330723228822
+    second: 4. Paralax_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -110,19 +110,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: iOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -139,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HiPaint_1754197725805_0
+      name: 4. Paralax_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1080
-        height: 1080
+        width: 5760
+        height: 2474
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa21f9746e5625fb0800000000000000
-      internalID: -4660550624656551254
+      spriteID: a6303f6cc69d662a0800000000000000
+      internalID: -6744464330723228822
       vertices: []
       indices: 
       edges: []
@@ -174,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      HiPaint_1754197725805_0: -4660550624656551254
+      4. Paralax_0: -6744464330723228822
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

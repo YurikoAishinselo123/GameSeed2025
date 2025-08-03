@@ -44,7 +44,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0428b03ffc9c04657abec2cf9619cf11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxInventorySize: 10
 --- !u!1 &4409111828414842644
 GameObject:
   m_ObjectHideFlags: 0
@@ -89,6 +88,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 250bbf8fc21c64681acf9821a9c9d19c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  detectionAngle: 45
   detectableLayer:
     serializedVersion: 2
     m_Bits: 8
@@ -202,6 +202,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d3a0f3b7738546a6b4d876e73a20035, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 8
   canMove: 0
   anim: {fileID: 0}
 --- !u!50 &5629349409102642358
