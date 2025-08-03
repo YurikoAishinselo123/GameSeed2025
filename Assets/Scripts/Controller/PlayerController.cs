@@ -1,33 +1,35 @@
-using UnityEditor;
 using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.InputSystem.LowLevel;
 
+[RequireComponent(typeof(Rigidbody2D), typeof(SpriteRenderer))]
 public class PlayerController : MonoBehaviour
 {
-    float speed = 4f;
-    float moveX;
-    float moveXClamp;
-    float moveY;
-    float moveYClamp;
-    Rigidbody2D rb;
-    Vector2 movement;
+    [SerializeField] private float speed = 4f;
+
+    private Rigidbody2D rb;
+    private SpriteRenderer spriteRenderer;
+    private Vector2 movement;
 
     private void Start()
     {
         Cursor.visible = false;
         rb = GetComponent<Rigidbody2D>();
-        rb.position = new Vector2(0, 0);
-
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        rb.position = Vector2.zero;
     }
-    void FixedUpdate()
+
+    private void FixedUpdate()
     {
-        moveX = Input.GetAxisRaw("Mouse X");
-        moveXClamp = Mathf.Clamp(moveX, -1f, 1f);
-        moveY = Input.GetAxisRaw("Mouse Y");
-        moveYClamp = Mathf.Clamp(moveY, -1f, 1f);
-        movement = new Vector2(moveXClamp, moveYClamp);
+        float moveX = Mathf.Clamp(Input.GetAxisRaw("Mouse X"), -1f, 1f);
+        float moveY = Mathf.Clamp(Input.GetAxisRaw("Mouse Y"), -1f, 1f);
+        movement = new Vector2(moveX, moveY);
+
+        // Apply movement
         rb.AddForce(movement * speed, ForceMode2D.Impulse);
-        // Debug.Log(movement);
+
+        // Flip sprite based on horizontal movement
+        if (moveX > 0)
+            spriteRenderer.flipX = false;
+        else if (moveX < 0)
+            spriteRenderer.flipX = true;
     }
 }
