@@ -27,19 +27,10 @@ public class InventoryCounterView : MonoBehaviour
         InventoryEvents.OnInventoryUpdated -= UpdateText;
     }
 
-    // private void UpdateText()
-    // {
-    //     var items = InventorySaveSystem.Load();
-    //     int count = items.Count;
-    //     Debug.Log("Item : " + count);
-
-    //     collectedText.text = $"Collected: {count} item{(count == 1 ? "" : "s")}";
-    // }
-
     private void UpdateText()
     {
         var items = InventorySaveSystem.Load();
-        int totalQuantity = items.Sum(item => item.quantity); // Total collected
+        int totalQuantity = items.Sum(item => item.quantity); 
         collectedText.text = $"Collected: {totalQuantity} item{(totalQuantity == 1 ? "" : "s")}";
         Debug.Log("Item : " + totalQuantity);
     }

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class FishNPCController : MonoBehaviour
+public class FishNPCControllerDeni : MonoBehaviour
 {
     Rigidbody2D rb;
     float speed;

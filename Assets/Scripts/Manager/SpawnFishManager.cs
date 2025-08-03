@@ -2,46 +2,43 @@ using UnityEngine;
 
 public class SpawnFishManager : MonoBehaviour
 {
-    [SerializeField] GameObject SpawnFish;
-    float spawnWaitTime;
-    void Start()
+    [SerializeField] private FishDataSO[] fishTypes;
+    [SerializeField] private Transform leftSpawnPoint;
+    [SerializeField] private Transform rightSpawnPoint;
+
+    private float spawnInterval = 5f;
+    private float minY = -15f;
+    private float maxY = 15f;
+
+    private float timer;
+
+    private void Update()
     {
-        spawnWaitTime = Random.Range(1f, 5f);
+        timer += Time.deltaTime;
+        if (timer >= spawnInterval)
+        {
+            SpawnFish();
+            timer = 0f;
+        }
     }
 
-    // Update is called once per frame
-    void Update()
+    private void SpawnFish()
     {
-        if(spawnWaitTime <= 0)
-        {
-            spawnTheFish();
-            spawnWaitTime = Random.Range(.3f, 1f);
-        }
-        else
-        {
-            spawnWaitTime -= Time.deltaTime;
-        }
+        var data = fishTypes[Random.Range(0, fishTypes.Length)];
+
+        SwimDirection direction = (Random.value > 0.5f) ? SwimDirection.LeftToRight : SwimDirection.RightToLeft;
+        Vector3 spawnPos = (direction == SwimDirection.LeftToRight ? leftSpawnPoint.position : rightSpawnPoint.position);
+        spawnPos.y = Random.Range(minY, maxY);
+
+        var fish = Instantiate(data.fishPrefab, spawnPos, Quaternion.identity);
+
+        // Optionally override sprite if prefab uses a placeholder sprite
+        var sr = fish.GetComponent<SpriteRenderer>();
+        if (sr != null && data.fishSprite != null)
+            sr.sprite = data.fishSprite;
+
+        var controller = fish.GetComponent<FishNPCController>();
+        controller.Init(data.swimSpeed, direction);
     }
 
-    void spawnTheFish()
-    {
-        float rightOrLeft = Random.Range(0f, 2f);
-        if(rightOrLeft <= 1f)
-        {
-            GameObject spawnedFish = Instantiate(SpawnFish, new Vector2(-13f, Random.Range(4f, -4f)), Quaternion.identity);
-            Destroy(spawnedFish, 5f);
-        }
-        else if(rightOrLeft >= 1f)
-        {
-            Vector3 theScale = SpawnFish.transform.localScale;
-            theScale.y *= -1;
-            SpawnFish.transform.localScale = theScale;
-            GameObject spawnedFish = Instantiate(SpawnFish, new Vector2(13f, Random.Range(4f, -4f)), new Quaternion(transform.rotation.x, transform.rotation.y, 180f, transform.rotation.w));
-            theScale.y = -1;
-            SpawnFish.transform.localScale = theScale;
-            Destroy(spawnedFish, 5f);
-            Debug.Log(SpawnFish.transform.localScale);
-        }
-        
-    }
 }
