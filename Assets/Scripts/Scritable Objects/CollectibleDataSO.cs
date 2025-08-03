@@ -6,5 +6,5 @@ public class CollectibleDataSO : ScriptableObject
 {
     public string itemID;
     public string itemName;
-    public Sprite icon;
+    public GameObject prefab;
 }

@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemID: garbage
   itemName: Garbage
-  icon: {fileID: 0}
+  prefab: {fileID: 3369407765975443475, guid: a85aa2e070959496da9575bfd31bdae3, type: 3}
