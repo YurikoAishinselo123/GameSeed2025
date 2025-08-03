@@ -4,8 +4,7 @@ using UnityEngine;
 public class InventoryManager : MonoBehaviour
 {
     public static InventoryManager Instance { get; private set; }
-
-    [SerializeField] private int maxInventorySize = 10;
+    private int maxInventorySize = 2;
 
     private readonly List<CollectibleDataSO> inventory = new();
 
@@ -29,6 +28,7 @@ public class InventoryManager : MonoBehaviour
         if (inventory.Count >= maxInventorySize)
         {
             Debug.Log("[InventoryManager] Inventory full, cannot add item.");
+            InventoryEvents.RaiseInventoryFull(item);
             return false;
         }
 
@@ -36,7 +36,7 @@ public class InventoryManager : MonoBehaviour
         InventorySaveSystem.Save(inventory);
         InventoryEvents.RaiseItemCollected(item);
         InventoryEvents.RaiseInventoryUpdated();
-        Debug.Log($"Collected: {item.itemName}");
+        Debug.Log($"[InventoryManager] Collected: {item.itemName}");
         return true;
     }
 
