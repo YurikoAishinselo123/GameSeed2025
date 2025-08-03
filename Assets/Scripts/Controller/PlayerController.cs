@@ -28,6 +28,5 @@ public class PlayerController : MonoBehaviour
         moveYClamp = Mathf.Clamp(moveY, -1f, 1f);
         movement = new Vector2(moveXClamp, moveYClamp);
         rb.AddForce(movement * speed, ForceMode2D.Impulse);
-        //Debug.Log(movement);
     }
 }
