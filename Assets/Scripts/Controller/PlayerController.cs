@@ -28,8 +28,14 @@ public class PlayerController : MonoBehaviour
 
         // Flip sprite based on horizontal movement
         if (moveX > 0)
+        {
+            DetectionEvents.RaiseDirectionChanged(Vector2.right);
             spriteRenderer.flipX = false;
+        }
         else if (moveX < 0)
+        {
+            DetectionEvents.RaiseDirectionChanged(Vector2.left);
             spriteRenderer.flipX = true;
+        }
     }
 }
