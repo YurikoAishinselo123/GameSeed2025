@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SchoolOfFish.unity
+    path: Assets/Scenes/SchoolOfFish2.unity
     guid: 211227d4a124dfa408fed4f92133b804
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
