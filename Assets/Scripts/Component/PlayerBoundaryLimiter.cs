@@ -4,8 +4,8 @@ using UnityEngine;
 public class PlayerBoundaryLimiter : MonoBehaviour
 {
     [Header("Boundary Area")]
-    [SerializeField] private Vector2 minBounds = new Vector2(-10f, -4.5f); 
-    [SerializeField] private Vector2 maxBounds = new Vector2(10f, 4.5f); 
+    [SerializeField] private Vector2 minBounds = new Vector2(-32.6f, -17f); 
+    [SerializeField] private Vector2 maxBounds = new Vector2(32.6f, 17f); 
 
     private Transform playerTransform;
 
