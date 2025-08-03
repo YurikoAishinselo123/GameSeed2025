@@ -3,7 +3,7 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D), typeof(SpriteRenderer))]
 public class PlayerController : MonoBehaviour
 {
-    private float speed = 8f;
+    public float speed = 8f;
 
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
