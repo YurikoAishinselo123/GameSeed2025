@@ -110,6 +110,7 @@ GameObject:
   - component: {fileID: 5629349409102642358}
   - component: {fileID: 3711056809353024184}
   - component: {fileID: 4276555767837163649}
+  - component: {fileID: 6295993440335606110}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -201,6 +202,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d3a0f3b7738546a6b4d876e73a20035, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  canMove: 0
+  anim: {fileID: 0}
 --- !u!50 &5629349409102642358
 Rigidbody2D:
   serializedVersion: 5
@@ -286,3 +289,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae8afae9e3a404491a64eb1a3c3b0da6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!95 &6295993440335606110
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6116052933943808506}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 98b766b45136c9641beebdd9e1b187ea, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

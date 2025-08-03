@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/BubbleSystem.unity
+    guid: c0c9c2a129ebc644fb9bb9bcc57bc6ff
+  - enabled: 1
     path: Assets/Scenes/Fix/Gameplay.unity
     guid: 67b142eece9164260b58c0edc806b332
   m_configObjects:
