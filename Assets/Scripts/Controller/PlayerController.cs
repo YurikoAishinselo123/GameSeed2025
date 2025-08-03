@@ -8,9 +8,11 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
     private Vector2 movement;
-
+    public bool canMove;
+    public Animator anim;
     private void Start()
     {
+        anim = GetComponent<Animator>();
         Cursor.visible = false;
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -19,6 +21,8 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (canMove)
+            return;
         float moveX = Mathf.Clamp(Input.GetAxisRaw("Mouse X"), -1f, 1f);
         float moveY = Mathf.Clamp(Input.GetAxisRaw("Mouse Y"), -1f, 1f);
         movement = new Vector2(moveX, moveY);

@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: f466fa458b706464e868db273313d98d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7025651857757288288
+    second: Artboard 1_0
+  - first:
+      213: -2825619868766915184
+    second: Artboard 1_1
+  - first:
+      213: 4183446224265781417
+    second: Artboard 1_2
+  - first:
+      213: -8093055943712765705
+    second: Artboard 1_3
+  - first:
+      213: -7850811089343640920
+    second: Artboard 1_4
+  - first:
+      213: 5381603096283936470
+    second: Artboard 1_5
+  - first:
+      213: 7980678758866456029
+    second: Artboard 1_6
+  - first:
+      213: 1541171503624190148
+    second: Artboard 1_7
+  - first:
+      213: -7955394850037906589
+    second: Artboard 1_8
+  - first:
+      213: 8458006436001612044
+    second: Artboard 1_9
+  - first:
+      213: 8070235055996712404
+    second: Artboard 1_10
+  - first:
+      213: 1804102395114766125
+    second: Artboard 1_11
+  - first:
+      213: -572868730594519110
+    second: Artboard 1_12
+  - first:
+      213: 200119667899710034
+    second: Artboard 1_13
+  - first:
+      213: -7328221340324869410
+    second: Artboard 1_14
+  - first:
+      213: -4541986392515992272
+    second: Artboard 1_15
+  - first:
+      213: -3711226117266861551
+    second: Artboard 1_16
+  - first:
+      213: 2662024832787262947
+    second: Artboard 1_17
+  - first:
+      213: 3496821018920953297
+    second: Artboard 1_18
+  - first:
+      213: -3407254726856757279
+    second: Artboard 1_19
+  - first:
+      213: -2612245438430730861
+    second: Artboard 1_20
+  - first:
+      213: 7443734398499909113
+    second: Artboard 1_21
+  - first:
+      213: -7275175051635112284
+    second: Artboard 1_22
+  - first:
+      213: -4199073884756726463
+    second: Artboard 1_23
+  - first:
+      213: -3501918502930719794
+    second: Artboard 1_24
+  - first:
+      213: -9068816111191076125
+    second: Artboard 1_25
+  - first:
+      213: -3166495512951843194
+    second: Artboard 1_26
+  - first:
+      213: -2707663417941836237
+    second: Artboard 1_27
+  - first:
+      213: 7417117208576820694
+    second: Artboard 1_28
+  - first:
+      213: 4016369999034032638
+    second: Artboard 1_29
+  - first:
+      213: 2937397455037928371
+    second: Artboard 1_30
+  - first:
+      213: 4846387065121818609
+    second: Artboard 1_31
+  - first:
+      213: 1709510724866733805
+    second: Artboard 1_32
+  - first:
+      213: -7512945778415755222
+    second: Artboard 1_33
+  - first:
+      213: 7214028765244763275
+    second: Artboard 1_34
+  - first:
+      213: -8646314310477766206
+    second: Artboard 1_35
+  - first:
+      213: -6932129411471866371
+    second: Artboard 1_36
+  - first:
+      213: 8090195271381936350
+    second: Artboard 1_37
+  - first:
+      213: -4008471277825511605
+    second: Artboard 1_38
+  - first:
+      213: -6627460669842574881
+    second: Artboard 1_39
+  - first:
+      213: 3937194891920570770
+    second: Artboard 1_40
+  - first:
+      213: 3882547593041411192
+    second: Artboard 1_41
+  - first:
+      213: 6445509683273167306
+    second: Artboard 1_42
+  - first:
+      213: 6919524062145209200
+    second: Artboard 1_43
+  - first:
+      213: -5092730654082978827
+    second: Artboard 1_44
+  - first:
+      213: 7296233685779026165
+    second: Artboard 1_45
+  - first:
+      213: -5197737345001681409
+    second: Artboard 1_46
+  - first:
+      213: 3491988813089210813
+    second: Artboard 1_47
+  - first:
+      213: 8199237326733375691
+    second: Artboard 1_48
+  - first:
+      213: 3780936923275754220
+    second: Artboard 1_49
+  - first:
+      213: -6726441178257391548
+    second: Artboard 1_50
+  - first:
+      213: 6454499995585793341
+    second: Artboard 1_51
+  - first:
+      213: -634840647202146985
+    second: Artboard 1_52
+  - first:
+      213: 6046648500220448552
+    second: Artboard 1_53
+  - first:
+      213: 7670498187422296107
+    second: Artboard 1_54
+  - first:
+      213: -842826567073943394
+    second: Artboard 1_55
+  - first:
+      213: 126632494492365454
+    second: Artboard 1_56
+  - first:
+      213: -4829441916133854027
+    second: Artboard 1_57
+  - first:
+      213: 1532379988598133540
+    second: Artboard 1_58
+  - first:
+      213: -8114566065875608978
+    second: Artboard 1_59
+  - first:
+      213: 2959247461213087398
+    second: Artboard 1_60
+  - first:
+      213: 450083763873955940
+    second: Artboard 1_61
+  - first:
+      213: 6828559533031063065
+    second: Artboard 1_62
+  - first:
+      213: -357916879873230037
+    second: Artboard 1_63
+  - first:
+      213: -899241025132460860
+    second: Artboard 1_64
+  - first:
+      213: 1608891087767611648
+    second: Artboard 1_65
+  - first:
+      213: 4482517291296129469
+    second: Artboard 1_66
+  - first:
+      213: 7094754626068037167
+    second: Artboard 1_67
+  - first:
+      213: 743621458117298772
+    second: Artboard 1_68
+  - first:
+      213: -1888186355415812784
+    second: Artboard 1_69
+  - first:
+      213: 593982509118999715
+    second: Artboard 1_70
+  - first:
+      213: 8038049834454014974
+    second: Artboard 1_71
+  - first:
+      213: 2580416545134413372
+    second: Artboard 1_72
+  - first:
+      213: -3374486282701436047
+    second: Artboard 1_73
+  - first:
+      213: 8732775671776389436
+    second: Artboard 1_74
+  - first:
+      213: -5165956391663276248
+    second: Artboard 1_75
+  - first:
+      213: -5823507814581875256
+    second: Artboard 1_76
+  - first:
+      213: 6934877360751824296
+    second: Artboard 1_77
+  - first:
+      213: -535755960613595943
+    second: Artboard 1_78
+  - first:
+      213: 2720584969227704656
+    second: Artboard 1_79
+  - first:
+      213: -8943274909517579740
+    second: Artboard 1_80
+  - first:
+      213: 8973761138073344639
+    second: Artboard 1_81
+  - first:
+      213: -6061064256167673636
+    second: Artboard 1_82
+  - first:
+      213: -4255529920152386338
+    second: Artboard 1_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Artboard 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1131
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142786b4d27db3d40a505f594168778f
+      internalID: 1461775572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 1_1
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 0
+        width: 1131
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6706fa10a2a660b4c922101c16a70692
+      internalID: -568902631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 1_2
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 0
+        width: 1131
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ddcca5ee45aea4b9447bff9aaa3435
+      internalID: -1011256103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 1_3
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 0
+        width: 1131
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af4811fc49264544ad28424841059a5
+      internalID: -934446105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 659de14cd20862244885047a0d011d65
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Artboard 1_0: 1461775572
+      Artboard 1_1: -568902631
+      Artboard 1_2: -1011256103
+      Artboard 1_3: -934446105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
