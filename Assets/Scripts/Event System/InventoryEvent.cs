@@ -3,15 +3,18 @@ using System;
 public static class InventoryEvents
 {
     public static event Action<CollectibleDataSO> OnItemCollected;
-    public static event Action OnInventoryUpdated; // ✅ For UI refresh
+    public static event Action OnInventoryUpdated;
+    public static event Action<CollectibleDataSO> OnInventoryFull;
 
-    public static void RaiseItemCollected(CollectibleDataSO data)
-    {
-        OnItemCollected?.Invoke(data);
-    }
+    // ✅ Request to add an item
+    public static event Func<CollectibleDataSO, bool> OnAddItemRequested;
 
-    public static void RaiseInventoryUpdated()
+    public static void RaiseItemCollected(CollectibleDataSO data) => OnItemCollected?.Invoke(data);
+    public static void RaiseInventoryUpdated() => OnInventoryUpdated?.Invoke();
+    public static void RaiseInventoryFull(CollectibleDataSO data) => OnInventoryFull?.Invoke(data);
+
+    public static bool RequestAddItem(CollectibleDataSO item)
     {
-        OnInventoryUpdated?.Invoke();
+        return OnAddItemRequested?.Invoke(item) ?? false;
     }
 }
