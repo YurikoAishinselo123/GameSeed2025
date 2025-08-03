@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: 9e3e99ae4b8e8446daff584a8ce9b33d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8107831397631483990
+    second: compressed (1)_0
+  - first:
+      213: -2635588194733072949
+    second: compressed (1)_1
+  - first:
+      213: 8063065371418444385
+    second: compressed (1)_2
+  - first:
+      213: -7588401493664241211
+    second: compressed (1)_3
+  - first:
+      213: 4345598376744824774
+    second: compressed (1)_4
+  - first:
+      213: -5784359216991158091
+    second: compressed (1)_5
+  - first:
+      213: -7529877613965548427
+    second: compressed (1)_6
+  - first:
+      213: -1043980885012875865
+    second: compressed (1)_7
+  - first:
+      213: -8845370919464116990
+    second: compressed (1)_8
+  - first:
+      213: -4131832590666607903
+    second: compressed (1)_9
+  - first:
+      213: -3709310790240424802
+    second: compressed (1)_10
+  - first:
+      213: -4848116640672638611
+    second: compressed (1)_11
+  - first:
+      213: -718846574074914545
+    second: compressed (1)_12
+  - first:
+      213: -7493517312831297873
+    second: compressed (1)_13
+  - first:
+      213: 1511467932224634101
+    second: compressed (1)_14
+  - first:
+      213: -6326028009862401150
+    second: compressed (1)_15
+  - first:
+      213: -2064478486891206873
+    second: compressed (1)_16
+  - first:
+      213: 7398523454843089387
+    second: compressed (1)_17
+  - first:
+      213: 8356719965165839704
+    second: compressed (1)_18
+  - first:
+      213: 6335698892652523052
+    second: compressed (1)_19
+  - first:
+      213: -1988097623450866705
+    second: compressed (1)_20
+  - first:
+      213: -1866358212917377106
+    second: compressed (1)_21
+  - first:
+      213: 1798646340688850054
+    second: compressed (1)_22
+  - first:
+      213: -8765767228995156000
+    second: compressed (1)_23
+  - first:
+      213: -837656777065767228
+    second: compressed (1)_24
+  - first:
+      213: 2296778996575702774
+    second: compressed (1)_25
+  - first:
+      213: -6405809608523991193
+    second: compressed (1)_26
+  - first:
+      213: 989722307208169241
+    second: compressed (1)_27
+  - first:
+      213: -5583006720079124119
+    second: compressed (1)_28
+  - first:
+      213: 1436044747843798113
+    second: compressed (1)_29
+  - first:
+      213: 6370679680567187001
+    second: compressed (1)_30
+  - first:
+      213: 8506941028068642912
+    second: compressed (1)_31
+  - first:
+      213: -5256995769979248147
+    second: compressed (1)_32
+  - first:
+      213: 7125970326090904533
+    second: compressed (1)_33
+  - first:
+      213: -6749044272210346012
+    second: compressed (1)_34
+  - first:
+      213: -6620282754368184911
+    second: compressed (1)_35
+  - first:
+      213: 2467143200011430000
+    second: compressed (1)_36
+  - first:
+      213: 2066889571252012041
+    second: compressed (1)_37
+  - first:
+      213: 2195752033732808229
+    second: compressed (1)_38
+  - first:
+      213: 7751778954222016694
+    second: compressed (1)_39
+  - first:
+      213: -2473012317634544307
+    second: compressed (1)_40
+  - first:
+      213: -2172542421966439821
+    second: compressed (1)_41
+  - first:
+      213: -281831642860471474
+    second: compressed (1)_42
+  - first:
+      213: -2323101020238588979
+    second: compressed (1)_43
+  - first:
+      213: -3063442344521175146
+    second: compressed (1)_44
+  - first:
+      213: -4984855476401943833
+    second: compressed (1)_45
+  - first:
+      213: 1455589832078100646
+    second: compressed (1)_46
+  - first:
+      213: 8420841303705307535
+    second: compressed (1)_47
+  - first:
+      213: 964024994498798158
+    second: compressed (1)_48
+  - first:
+      213: -6487581586500127932
+    second: compressed (1)_49
+  - first:
+      213: 425771866320470517
+    second: compressed (1)_50
+  - first:
+      213: 3889698466405222939
+    second: compressed (1)_51
+  - first:
+      213: 6861825642855161999
+    second: compressed (1)_52
+  - first:
+      213: 846819825615469023
+    second: compressed (1)_53
+  - first:
+      213: 3566544679972817476
+    second: compressed (1)_54
+  - first:
+      213: -5795006484343883554
+    second: compressed (1)_55
+  - first:
+      213: 2232869523106037176
+    second: compressed (1)_56
+  - first:
+      213: -6090455924079836998
+    second: compressed (1)_57
+  - first:
+      213: -4867393177453325857
+    second: compressed (1)_58
+  - first:
+      213: 249585525364300748
+    second: compressed (1)_59
+  - first:
+      213: -2047570293592919165
+    second: compressed (1)_60
+  - first:
+      213: 4507764110755876816
+    second: compressed (1)_61
+  - first:
+      213: -8789517122183794948
+    second: compressed (1)_62
+  - first:
+      213: -2808381316339433937
+    second: compressed (1)_63
+  - first:
+      213: -126882109617702639
+    second: compressed (1)_64
+  - first:
+      213: 3457723333593279121
+    second: compressed (1)_65
+  - first:
+      213: 3670773279900733555
+    second: compressed (1)_66
+  - first:
+      213: 4646720615335141466
+    second: compressed (1)_67
+  - first:
+      213: -3429340954968847200
+    second: compressed (1)_68
+  - first:
+      213: 2273951860206252825
+    second: compressed (1)_69
+  - first:
+      213: 2838322314720194323
+    second: compressed (1)_70
+  - first:
+      213: 1824613297627158893
+    second: compressed (1)_71
+  - first:
+      213: -2512632033903446205
+    second: compressed (1)_72
+  - first:
+      213: -5545517508903838296
+    second: compressed (1)_73
+  - first:
+      213: 1173825844386677214
+    second: compressed (1)_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plastik_0
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 7620
+        width: 331
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90399f301d6e84b289a0354284c51f73
+      internalID: 298526868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_1
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 7620
+        width: 328
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abfcc65d77c64de08f16213c8f1b4dd
+      internalID: 209748976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_2
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 7620
+        width: 328
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac17102b0815c427cb27ae762cf7b459
+      internalID: 1070698732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_3
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 7619
+        width: 328
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dff025c98e64f9ab9cd7689b959d16
+      internalID: -893424336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_4
+      rect:
+        serializedVersion: 2
+        x: 4154
+        y: 7616
+        width: 332
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eedcfaaa1a73404aadb128f63334bcc
+      internalID: -316042623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 7074
+        width: 331
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a925c7c5028348cc8c20dc95fa7a302
+      internalID: 260593857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_6
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 7074
+        width: 328
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dacbe5168fd148b5970b80a86fa4517
+      internalID: -941110553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_7
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 7070
+        width: 328
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c89af5005ee74ee78f365a333e55372
+      internalID: 344718596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_8
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 7066
+        width: 328
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f29a28f69a44774b566796e1d8c700
+      internalID: -1973119054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_9
+      rect:
+        serializedVersion: 2
+        x: 4154
+        y: 7062
+        width: 328
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba285aabab5904809a98965eacdcd0ed
+      internalID: 418026642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_10
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 6520
+        width: 325
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a967790b91d4a1597cbf5514074e21
+      internalID: -957656514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_11
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 6516
+        width: 324
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065c69e3814294b56b58f87704c9bf65
+      internalID: -360561898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_12
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 6512
+        width: 320
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d18b1f15c084bf6834c7effbf9b1b7
+      internalID: 1811284034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_13
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 6508
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba37549a2bee4162b5f9ceaf077a075
+      internalID: 722135525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_14
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 6508
+        width: 312
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a881b99528e244c7b1e464595abdfbd
+      internalID: -1675874213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 5963
+        width: 301
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879191b0ff10a4bb3aba474fcfbef94c
+      internalID: 229723460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_16
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 5962
+        width: 293
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe1a65e6fec34c6da6cc4ad97a7ed69
+      internalID: 219841876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_17
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 5959
+        width: 280
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b1b30b6517e452ca02db588c3fb2a3
+      internalID: 104624365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_18
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 5958
+        width: 265
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2720857a030334f66a6e59fd2923b480
+      internalID: -836475754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_19
+      rect:
+        serializedVersion: 2
+        x: 4185
+        y: 5958
+        width: 249
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580fd64332c4e4f7483ebf49c57155e0
+      internalID: -912127430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_20
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 5420
+        width: 229
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e1c249dfe524b2e90d22b6fd4f55d6
+      internalID: -1930030552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_21
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 5420
+        width: 209
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f78c8990b84741c79b014898cfab9cd
+      internalID: 908243803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_22
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 5421
+        width: 186
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa0f9ac84b6e41b9a9aa4b913be4355
+      internalID: 96059318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_23
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 5424
+        width: 160
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdcfaadd5afe4bf7abce77f9049417f
+      internalID: -171320174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_24
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 5428
+        width: 134
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04655c63397434568a349b6ce3530907
+      internalID: 1759863213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_25
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 4890
+        width: 138
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd31e13ad1e940999573e54bb29fa42
+      internalID: -660539705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_26
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 4894
+        width: 162
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13cb1bc082ee4dbb85467db47e46dcb
+      internalID: 743178485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_27
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 4898
+        width: 190
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4a8c5d160b946ac90c769b5b9719e5
+      internalID: 885688255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_28
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 4902
+        width: 217
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546aca34506b64b2d90a88f2775f99cf
+      internalID: 130387554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_29
+      rect:
+        serializedVersion: 2
+        x: 4205
+        y: 4904
+        width: 241
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746e519755ae54fa2b662bdf87dc6387
+      internalID: 662402060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_30
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 4368
+        width: 265
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7c19076b9674ed9bf197465d4a42c8
+      internalID: -354306201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_31
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 4372
+        width: 284
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740ba9ed5607d471b825f832860962e9
+      internalID: -831246623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_32
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 4376
+        width: 296
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2881f49cfe8054cd5bd1dedad4d1490a
+      internalID: -1882986567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_33
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 4376
+        width: 311
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc13ce84171440c3b0f8726c1ab3ac9
+      internalID: -1423566697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_34
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 4380
+        width: 321
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa5e21fab088456abc5c06cfbc171f7
+      internalID: 950785753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_35
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 3840
+        width: 324
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3237a606dbe414381a5898e1c1a30d00
+      internalID: -1091470741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_36
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 3842
+        width: 332
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba901198d0844301bb14e48d905bd6b
+      internalID: -471576252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_37
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 3842
+        width: 331
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adf3ca71af45448087f0b76fffbd125
+      internalID: -617817746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_38
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 3839
+        width: 332
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3224aaaccd12414399d12a893cccb59
+      internalID: 1601155033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_39
+      rect:
+        serializedVersion: 2
+        x: 4154
+        y: 3838
+        width: 332
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f0c321b777b4ef6882e4773887445b
+      internalID: -295304389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_40
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 3297
+        width: 324
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d4a4747bb5a442d97a9931aa132c73
+      internalID: -1156296018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_41
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 3293
+        width: 316
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e79aba0fc974b00ae8e93f1063048a
+      internalID: -2065069650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_42
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 3293
+        width: 304
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75ad677e3ddb46e2950c2b425bda28e
+      internalID: -1511216447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_43
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 3289
+        width: 292
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58381cbfbb4554e029a1b33669f600de
+      internalID: 1501838390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_44
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 3285
+        width: 277
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752e20f52ffd543f39bd875f23efb70e
+      internalID: -1470774932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_45
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2743
+        width: 257
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca07924579b174e028843c2d8db328ff
+      internalID: -291800303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_46
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 2739
+        width: 233
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d026f7046fb84487ab4cd0087071168
+      internalID: 1242861666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_47
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 2735
+        width: 206
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c535a9b8cd4ee4d0fbe4b80bf566f7ad
+      internalID: -2075624164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_48
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 2731
+        width: 178
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea83a379de5874e8a99ee5c714042179
+      internalID: -1312141984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_49
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 2727
+        width: 154
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c317ddb39bdf433984cdc4071da3b5b
+      internalID: -1271516623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_50
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2185
+        width: 131
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000d9a750a1f7461fa7c01fa24de1c76
+      internalID: -1270416767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_51
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2181
+        width: 142
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028d934c8f3a941e9ad5a12111809bc9
+      internalID: -1564039412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_52
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 2181
+        width: 170
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ab8ffd68b12499cb7e0644ce3698d9
+      internalID: 597101809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_53
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 2178
+        width: 193
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601da4ee70525475d81ebd60889f804e
+      internalID: -1597588528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_54
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 2177
+        width: 213
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757360e4141c8479fa201dc66917f227
+      internalID: -245361473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_55
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1639
+        width: 237
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4042f394b09674926870a1fdb84bec52
+      internalID: -667848262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_56
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1639
+        width: 256
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65806575f250c4b11b31e91a2fc81c45
+      internalID: 1812095470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_57
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 1639
+        width: 268
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c55c132f48d45ac9b2f940bfac1738
+      internalID: 568537272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_58
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 1640
+        width: 285
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e118b47d4dd74d19bb8332ee2f6a458
+      internalID: -487430622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_59
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 1643
+        width: 297
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dd5638ccb184731b2983a043d1c6b7
+      internalID: -410493046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_60
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1105
+        width: 301
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b803b595cbe4b3e920ab68e852a9c6
+      internalID: 182500739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_61
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1109
+        width: 312
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb300b3ff488c4e479ccbcefa24bb544
+      internalID: 1770474165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_62
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 1113
+        width: 316
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61916da671b8a4243947b2d5cd0cb4a4
+      internalID: 1770862578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_63
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 1115
+        width: 320
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7fd25b297c046c7bcaca53e7160bc3
+      internalID: -987170513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_64
+      rect:
+        serializedVersion: 2
+        x: 4162
+        y: 1118
+        width: 324
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10274e2b62d64dbab504f6a1ad984e9
+      internalID: -392034122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_65
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 583
+        width: 324
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6031a41530f437695323a3ec377edd
+      internalID: 595982587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_66
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 585
+        width: 328
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fd03eccf3a64d6da76b2547b4bb945
+      internalID: -1794255266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_67
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 587
+        width: 327
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d9971ad408a469e8bf170083e329bb
+      internalID: -742920789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_68
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 591
+        width: 328
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aee0b91ebd724a099a11f27391d2580
+      internalID: 1894008749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_69
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 595
+        width: 328
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09554c1bee0f3427391913f726075ac8
+      internalID: 1754017107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_70
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 57
+        width: 328
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a945cbb8548fa4b0f9cb9a21d14e45bb
+      internalID: 2048820025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_71
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 57
+        width: 331
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc66a8951304419b90ac6ce20f7ffbd
+      internalID: 78963874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_72
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 61
+        width: 328
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d8f9760fdae45c0833a46ec3c80d8c
+      internalID: -1953617991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_73
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 61
+        width: 328
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb80ff557bf84c7b9ea2fe4b096a049
+      internalID: -1833719064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastik_74
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 61
+        width: 328
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b9037b0ad504b2f86d96ae81026ce6
+      internalID: -2117273019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 11a0b28ddb95c4306bf64e9c41666784
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plastik_0: 298526868
+      Plastik_1: 209748976
+      Plastik_10: -957656514
+      Plastik_11: -360561898
+      Plastik_12: 1811284034
+      Plastik_13: 722135525
+      Plastik_14: -1675874213
+      Plastik_15: 229723460
+      Plastik_16: 219841876
+      Plastik_17: 104624365
+      Plastik_18: -836475754
+      Plastik_19: -912127430
+      Plastik_2: 1070698732
+      Plastik_20: -1930030552
+      Plastik_21: 908243803
+      Plastik_22: 96059318
+      Plastik_23: -171320174
+      Plastik_24: 1759863213
+      Plastik_25: -660539705
+      Plastik_26: 743178485
+      Plastik_27: 885688255
+      Plastik_28: 130387554
+      Plastik_29: 662402060
+      Plastik_3: -893424336
+      Plastik_30: -354306201
+      Plastik_31: -831246623
+      Plastik_32: -1882986567
+      Plastik_33: -1423566697
+      Plastik_34: 950785753
+      Plastik_35: -1091470741
+      Plastik_36: -471576252
+      Plastik_37: -617817746
+      Plastik_38: 1601155033
+      Plastik_39: -295304389
+      Plastik_4: -316042623
+      Plastik_40: -1156296018
+      Plastik_41: -2065069650
+      Plastik_42: -1511216447
+      Plastik_43: 1501838390
+      Plastik_44: -1470774932
+      Plastik_45: -291800303
+      Plastik_46: 1242861666
+      Plastik_47: -2075624164
+      Plastik_48: -1312141984
+      Plastik_49: -1271516623
+      Plastik_5: 260593857
+      Plastik_50: -1270416767
+      Plastik_51: -1564039412
+      Plastik_52: 597101809
+      Plastik_53: -1597588528
+      Plastik_54: -245361473
+      Plastik_55: -667848262
+      Plastik_56: 1812095470
+      Plastik_57: 568537272
+      Plastik_58: -487430622
+      Plastik_59: -410493046
+      Plastik_6: -941110553
+      Plastik_60: 182500739
+      Plastik_61: 1770474165
+      Plastik_62: 1770862578
+      Plastik_63: -987170513
+      Plastik_64: -392034122
+      Plastik_65: 595982587
+      Plastik_66: -1794255266
+      Plastik_67: -742920789
+      Plastik_68: 1894008749
+      Plastik_69: 1754017107
+      Plastik_7: 344718596
+      Plastik_70: 2048820025
+      Plastik_71: 78963874
+      Plastik_72: -1953617991
+      Plastik_73: -1833719064
+      Plastik_74: -2117273019
+      Plastik_8: -1973119054
+      Plastik_9: 418026642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

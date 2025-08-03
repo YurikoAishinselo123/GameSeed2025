@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: f154b1d19d6e643b9a51d305028af0a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3142641039741434840
+    second: Plastic Bottle_0
+  - first:
+      213: -4802412252779636790
+    second: Plastic Bottle_1
+  - first:
+      213: -4909183073578633913
+    second: Plastic Bottle_2
+  - first:
+      213: -1351609602907203836
+    second: Plastic Bottle_3
+  - first:
+      213: -6143083205535337240
+    second: Plastic Bottle_4
+  - first:
+      213: -7323704558466873639
+    second: Plastic Bottle_5
+  - first:
+      213: -6369210844840577672
+    second: Plastic Bottle_6
+  - first:
+      213: 381289757453733601
+    second: Plastic Bottle_7
+  - first:
+      213: 8354859889622450942
+    second: Plastic Bottle_8
+  - first:
+      213: -2340394888448371615
+    second: Plastic Bottle_9
+  - first:
+      213: -6012357475348328046
+    second: Plastic Bottle_10
+  - first:
+      213: 3339527668028361596
+    second: Plastic Bottle_11
+  - first:
+      213: 1595315625713912529
+    second: Plastic Bottle_12
+  - first:
+      213: 4459003809054138697
+    second: Plastic Bottle_13
+  - first:
+      213: 7643581301821713074
+    second: Plastic Bottle_14
+  - first:
+      213: -5204908379416026059
+    second: Plastic Bottle_15
+  - first:
+      213: 3311827874393607096
+    second: Plastic Bottle_16
+  - first:
+      213: 821231940615623940
+    second: Plastic Bottle_17
+  - first:
+      213: 5223480104508252406
+    second: Plastic Bottle_18
+  - first:
+      213: 3235655698939695798
+    second: Plastic Bottle_19
+  - first:
+      213: 7020517140195883669
+    second: Plastic Bottle_20
+  - first:
+      213: 8176105707119806999
+    second: Plastic Bottle_21
+  - first:
+      213: -7968839573521701820
+    second: Plastic Bottle_22
+  - first:
+      213: -1877518533439562204
+    second: Plastic Bottle_23
+  - first:
+      213: 8883010342519739233
+    second: Plastic Bottle_24
+  - first:
+      213: 7478723860803476574
+    second: Plastic Bottle_25
+  - first:
+      213: 5740818447773481918
+    second: Plastic Bottle_26
+  - first:
+      213: -6115349340251881930
+    second: Plastic Bottle_27
+  - first:
+      213: -8325446403078197504
+    second: Plastic Bottle_28
+  - first:
+      213: 2062041039153493820
+    second: Plastic Bottle_29
+  - first:
+      213: -6198040781080383592
+    second: Plastic Bottle_30
+  - first:
+      213: -6120381858399981780
+    second: Plastic Bottle_31
+  - first:
+      213: -7034035712292079316
+    second: Plastic Bottle_32
+  - first:
+      213: 7580216645893951184
+    second: Plastic Bottle_33
+  - first:
+      213: -4229674692245835982
+    second: Plastic Bottle_34
+  - first:
+      213: -2771261811116411895
+    second: Plastic Bottle_35
+  - first:
+      213: 3494207597275000504
+    second: Plastic Bottle_36
+  - first:
+      213: -5928054500511494466
+    second: Plastic Bottle_37
+  - first:
+      213: -3950994805549418802
+    second: Plastic Bottle_38
+  - first:
+      213: 2699267978168037649
+    second: Plastic Bottle_39
+  - first:
+      213: -1646650724563610243
+    second: Plastic Bottle_40
+  - first:
+      213: -4401396129273874867
+    second: Plastic Bottle_41
+  - first:
+      213: 5213363596202072126
+    second: Plastic Bottle_42
+  - first:
+      213: -829147856307679511
+    second: Plastic Bottle_43
+  - first:
+      213: 8313717614990798388
+    second: Plastic Bottle_44
+  - first:
+      213: -7030276254780012887
+    second: Plastic Bottle_45
+  - first:
+      213: -8656274935954874310
+    second: Plastic Bottle_46
+  - first:
+      213: 2697750239906890000
+    second: Plastic Bottle_47
+  - first:
+      213: 2432188497079192763
+    second: Plastic Bottle_48
+  - first:
+      213: 6392021298148784798
+    second: Plastic Bottle_49
+  - first:
+      213: -5106375665811600069
+    second: Plastic Bottle_50
+  - first:
+      213: -3694113021511884059
+    second: Plastic Bottle_51
+  - first:
+      213: -5154862277872975624
+    second: Plastic Bottle_52
+  - first:
+      213: 3341330140778823327
+    second: Plastic Bottle_53
+  - first:
+      213: -2304772264462475877
+    second: Plastic Bottle_54
+  - first:
+      213: -1053350698257083324
+    second: Plastic Bottle_55
+  - first:
+      213: 8925212766382124635
+    second: Plastic Bottle_56
+  - first:
+      213: -2517286403858483831
+    second: Plastic Bottle_57
+  - first:
+      213: -2244563223713147839
+    second: Plastic Bottle_58
+  - first:
+      213: -8549756564407488344
+    second: Plastic Bottle_59
+  - first:
+      213: -1057191478904465364
+    second: Plastic Bottle_60
+  - first:
+      213: -8434679640416122474
+    second: Plastic Bottle_61
+  - first:
+      213: -2344074898909134509
+    second: Plastic Bottle_62
+  - first:
+      213: -7706198053567245091
+    second: Plastic Bottle_63
+  - first:
+      213: 6495255020092427877
+    second: Plastic Bottle_64
+  - first:
+      213: 8632255922840821324
+    second: Plastic Bottle_65
+  - first:
+      213: -2483119834506126453
+    second: Plastic Bottle_66
+  - first:
+      213: -7350235247346733194
+    second: Plastic Bottle_67
+  - first:
+      213: -8141284978729685062
+    second: Plastic Bottle_68
+  - first:
+      213: 6194804281339235970
+    second: Plastic Bottle_69
+  - first:
+      213: -7928463747252255735
+    second: Plastic Bottle_70
+  - first:
+      213: 4556872240751530752
+    second: Plastic Bottle_71
+  - first:
+      213: 8281651676620605224
+    second: Plastic Bottle_72
+  - first:
+      213: 1033134197553267728
+    second: Plastic Bottle_73
+  - first:
+      213: 5413133996297949118
+    second: Plastic Bottle_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plastic Bottle_0
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 7608
+        width: 135
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e6286fe136243ed918521dd16882e1
+      internalID: -716097643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_1
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 7608
+        width: 134
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2dbcff04d8641df86a88a6b0147c2a
+      internalID: 1072867558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_2
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 7608
+        width: 130
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff3691fb2baf4d588a1549e82cd54f8
+      internalID: -1389426340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_3
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 7604
+        width: 130
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c344c67cf8242c08c3e3d468d4fbd1
+      internalID: 530941778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_4
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 7604
+        width: 133
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3cca2210ac544af8fc0d1659148f79
+      internalID: 701811323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 7062
+        width: 135
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b087cd4ce7df042109cf0b13429a3c17
+      internalID: -1434818963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_6
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 7058
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62faf8fbec70640f7a702985f5fcbfdc
+      internalID: 638120324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_7
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 7058
+        width: 130
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b766d38c30c274b9885052a56594785f
+      internalID: 961609058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_8
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 7054
+        width: 130
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced21155b7d864491bc74ba5d82f45a6
+      internalID: -851389329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_9
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 7050
+        width: 134
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1113c5fb9c5d4cc3ae80ad91a327a4d
+      internalID: -1960063447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 6508
+        width: 135
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199e27807409b467285e7c901ac616b9
+      internalID: 1669657265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_11
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 6508
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72baa18e13ba041809831763221909c9
+      internalID: -541552632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_12
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 6504
+        width: 130
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4122894b9e64165b4192d3ce103bb1
+      internalID: 1400907988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_13
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 6504
+        width: 130
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7cfe8b7c7aa44b5b0ddf89ef75de4d
+      internalID: -1570088671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_14
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 6500
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dce0e3821f444a20b4e67d182d854b9
+      internalID: -1864901186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 5958
+        width: 135
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501383f547a40475abb0d1979c44bcc8
+      internalID: 3512006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_16
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 5958
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cb3ea1cfa0247d5afa899408303b83
+      internalID: 968486625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_17
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 5958
+        width: 130
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4948b35c4c5d048b59bf04154997e5d2
+      internalID: -1945811003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_18
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 5958
+        width: 130
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6237ea065c8cd47559492920c18b6145
+      internalID: 731523310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_19
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 5958
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4816e3435bb24d6f8a611b5098ecaab
+      internalID: 556619270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_20
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 5417
+        width: 135
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f009e148816a4b72accdc9378874154
+      internalID: -372439755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_21
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 5420
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772afaf06ea94450bab972b905e3be2c
+      internalID: -2138938518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_22
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 5420
+        width: 130
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aef31a11e2d94b7386e238a581b26d7
+      internalID: -1869724226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_23
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 5423
+        width: 130
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadbcdc5195bb4181a68150156a77c21
+      internalID: 1380890720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_24
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 5424
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee39d8d2f812746ab9ff7266a36d5be7
+      internalID: -605173892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_25
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 4887
+        width: 135
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f6bd12c33a3412a98bc5cce60a0575
+      internalID: 1968995943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_26
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 4890
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a50a1858c864ffe9fe7827ea7bf124
+      internalID: -500425558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_27
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 4891
+        width: 130
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987481d134ae944e6838a09ebecb90d6
+      internalID: -1902232269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_28
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 4894
+        width: 130
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555e171c3bf6a4e31a9c98b0fb316b23
+      internalID: -333061216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_29
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 4898
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab2619964f56410db0fce6f02c8b853
+      internalID: -1293270603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 4360
+        width: 135
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d7d9725f2b3473ca5e75a6746b5d31
+      internalID: 1697696836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_31
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 4361
+        width: 134
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbe0324a4a2a43e4b421ba25a0c81ef
+      internalID: -1479981909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_32
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 4364
+        width: 130
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4787fb32ef7b453889a06b2bd15ff8b
+      internalID: -724587114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_33
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 4364
+        width: 130
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bba9a2b1d9040e89f21adb218e3765
+      internalID: 994423985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_34
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 4365
+        width: 134
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb33cbc22e324c808b2a1805ae67475
+      internalID: 2123397062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_35
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3827
+        width: 135
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae62e36f74c6e4bb2b5def26d3cdd0b8
+      internalID: -2063359350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_36
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 3827
+        width: 134
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b0e05c9385b4e1ea037dcdd0c66a17
+      internalID: 1700041295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_37
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 3827
+        width: 130
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8094d68efbb2844bfa5a31f9c7e3a1be
+      internalID: -2046390392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_38
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 3827
+        width: 130
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d298010b723474605980bda2409a92f9
+      internalID: 733706275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_39
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 3827
+        width: 134
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3282995ebf724ca18c5420d2c994f00
+      internalID: -1304633093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_40
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3285
+        width: 135
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e22faee26f424947850a7ee2c2f5cc6
+      internalID: -835341893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_41
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 3285
+        width: 134
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef60b4bd50124076934844429559400
+      internalID: -355477815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_42
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 3281
+        width: 130
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf5f460b85974123a00493c626dfd9d
+      internalID: -1938281395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_43
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 3281
+        width: 130
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9b80df32e7e47228d27d74fbd3729a
+      internalID: 1030510126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_44
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 3277
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedaa69b12bf54fadabdb2a8738af391
+      internalID: 36150067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_45
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2735
+        width: 135
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76b4e50846e347aca155cdeb72f1ae7
+      internalID: 1461699197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_46
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 2732
+        width: 134
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bcc9a90ec7d4621b70ea010c7f5871
+      internalID: -2116480414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_47
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 2731
+        width: 130
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5632d86d54b4856ad896b43082c5c4
+      internalID: -1990527191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_48
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 2727
+        width: 130
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d969bd0dcd64d6e8205e50b10b81ca
+      internalID: -2038174905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_49
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 2727
+        width: 134
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320e49d2feaee4b1d9e3b18e88afbcfe
+      internalID: -1205842919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2182
+        width: 135
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a611cb8c27b84229864b77e9a1c0b5c
+      internalID: 2096896073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_51
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 2181
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f638858dee0d4d0b8f17140565d5bee
+      internalID: 1151343145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_52
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 2178
+        width: 130
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdbeb764dfa5484998d547905d4b2b3
+      internalID: 537408054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_53
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 2177
+        width: 130
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc07fc972a70843e4aa69d1a8c2f39ab
+      internalID: 748823186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_54
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 2177
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b531cc923fd90422ea6fa5d470df3fd5
+      internalID: 824708653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_55
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1635
+        width: 135
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e9c9063c7a44626a793d22ca6fc8c2
+      internalID: -1436781720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_56
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1635
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328ea6053d26149e19fcbf3869a64781
+      internalID: -416297977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_57
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1635
+        width: 130
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9411840fbf61743ca9811180e2e5fe7c
+      internalID: -635105582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_58
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 1636
+        width: 130
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438baa06d4a4749d3812bdf5649c0538
+      internalID: -247796584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_59
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 1639
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecede07faf44b4da0a80ee761575453b
+      internalID: -2006307107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_60
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1101
+        width: 135
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fffa1a7895d436da24d91602464a55
+      internalID: -1569986689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_61
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1102
+        width: 134
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e16110510cb432dabc167fe7fa4f98
+      internalID: 469969933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_62
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1105
+        width: 130
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7d456a47aef4dd2a70863f411cd7c0
+      internalID: 930722533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_63
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 1106
+        width: 130
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c895df62ce2041578ba87554f56fb77
+      internalID: -1653769583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_64
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 1109
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e906a6d9ea084cd98cedc67f0ceff6c
+      internalID: -1124394135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_65
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 572
+        width: 135
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec4feefd760742fd96c6d19664dd80b
+      internalID: -1187200166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_66
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 575
+        width: 134
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9959ec92a584c7c809da1ab3233a45
+      internalID: -247165114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_67
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 576
+        width: 130
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cd987f388154addbae047fbab737c7
+      internalID: 633307953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_68
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 579
+        width: 130
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4b0dcd193674fe19e1b89a6c72938c
+      internalID: 933654561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_69
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 580
+        width: 134
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d8a5f94967c4720a8b3078a25d5b12
+      internalID: 308701341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_70
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 42
+        width: 135
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dec738adc2514819bd099db3bdf92df
+      internalID: -275547688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_71
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 46
+        width: 134
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f498d3222c87749e4b617ebe6824b5bc
+      internalID: 2030453283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_72
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 46
+        width: 130
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb50497ddd94449a596ef50b0fca4f65
+      internalID: -242211565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_73
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 46
+        width: 130
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098d595c31b5f4a88a95a476ed14d45e
+      internalID: 748539229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plastic Bottle_74
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 46
+        width: 134
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39d203340d1e49da972e7d33078f402
+      internalID: -1195300957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 594e9e1dd31c648328dc3e442b720efd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plastic Bottle_0: -716097643
+      Plastic Bottle_1: 1072867558
+      Plastic Bottle_10: 1669657265
+      Plastic Bottle_11: -541552632
+      Plastic Bottle_12: 1400907988
+      Plastic Bottle_13: -1570088671
+      Plastic Bottle_14: -1864901186
+      Plastic Bottle_15: 3512006
+      Plastic Bottle_16: 968486625
+      Plastic Bottle_17: -1945811003
+      Plastic Bottle_18: 731523310
+      Plastic Bottle_19: 556619270
+      Plastic Bottle_2: -1389426340
+      Plastic Bottle_20: -372439755
+      Plastic Bottle_21: -2138938518
+      Plastic Bottle_22: -1869724226
+      Plastic Bottle_23: 1380890720
+      Plastic Bottle_24: -605173892
+      Plastic Bottle_25: 1968995943
+      Plastic Bottle_26: -500425558
+      Plastic Bottle_27: -1902232269
+      Plastic Bottle_28: -333061216
+      Plastic Bottle_29: -1293270603
+      Plastic Bottle_3: 530941778
+      Plastic Bottle_30: 1697696836
+      Plastic Bottle_31: -1479981909
+      Plastic Bottle_32: -724587114
+      Plastic Bottle_33: 994423985
+      Plastic Bottle_34: 2123397062
+      Plastic Bottle_35: -2063359350
+      Plastic Bottle_36: 1700041295
+      Plastic Bottle_37: -2046390392
+      Plastic Bottle_38: 733706275
+      Plastic Bottle_39: -1304633093
+      Plastic Bottle_4: 701811323
+      Plastic Bottle_40: -835341893
+      Plastic Bottle_41: -355477815
+      Plastic Bottle_42: -1938281395
+      Plastic Bottle_43: 1030510126
+      Plastic Bottle_44: 36150067
+      Plastic Bottle_45: 1461699197
+      Plastic Bottle_46: -2116480414
+      Plastic Bottle_47: -1990527191
+      Plastic Bottle_48: -2038174905
+      Plastic Bottle_49: -1205842919
+      Plastic Bottle_5: -1434818963
+      Plastic Bottle_50: 2096896073
+      Plastic Bottle_51: 1151343145
+      Plastic Bottle_52: 537408054
+      Plastic Bottle_53: 748823186
+      Plastic Bottle_54: 824708653
+      Plastic Bottle_55: -1436781720
+      Plastic Bottle_56: -416297977
+      Plastic Bottle_57: -635105582
+      Plastic Bottle_58: -247796584
+      Plastic Bottle_59: -2006307107
+      Plastic Bottle_6: 638120324
+      Plastic Bottle_60: -1569986689
+      Plastic Bottle_61: 469969933
+      Plastic Bottle_62: 930722533
+      Plastic Bottle_63: -1653769583
+      Plastic Bottle_64: -1124394135
+      Plastic Bottle_65: -1187200166
+      Plastic Bottle_66: -247165114
+      Plastic Bottle_67: 633307953
+      Plastic Bottle_68: 933654561
+      Plastic Bottle_69: 308701341
+      Plastic Bottle_7: 961609058
+      Plastic Bottle_70: -275547688
+      Plastic Bottle_71: 2030453283
+      Plastic Bottle_72: -242211565
+      Plastic Bottle_73: 748539229
+      Plastic Bottle_74: -1195300957
+      Plastic Bottle_8: -851389329
+      Plastic Bottle_9: -1960063447
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

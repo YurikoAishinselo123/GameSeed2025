@@ -370,7 +370,7 @@ GameObject:
   - component: {fileID: 362304216}
   - component: {fileID: 362304215}
   m_Layer: 5
-  m_Name: Score Text Value (2)
+  m_Name: Time
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -918,8 +918,8 @@ RectTransform:
   - {fileID: 279369935}
   - {fileID: 1983691583}
   - {fileID: 1685029892}
-  - {fileID: 868354071}
   - {fileID: 362304214}
+  - {fileID: 868354071}
   m_Father: {fileID: 1033392166}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -1050,7 +1050,7 @@ GameObject:
   - component: {fileID: 868354073}
   - component: {fileID: 868354072}
   m_Layer: 5
-  m_Name: Score Text Value (1)
+  m_Name: Time Text Value
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

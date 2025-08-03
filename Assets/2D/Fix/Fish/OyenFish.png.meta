@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 4dcd9b614345e4f1ca02d15b9851e3c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8006669896526049567
+    second: sprite_sheet Ikan Oyen compressed_0
+  - first:
+      213: 2630832339059991129
+    second: sprite_sheet Ikan Oyen compressed_1
+  - first:
+      213: 9152067127610456057
+    second: sprite_sheet Ikan Oyen compressed_2
+  - first:
+      213: 6766803826405676024
+    second: sprite_sheet Ikan Oyen compressed_3
+  - first:
+      213: 8140842182234258032
+    second: sprite_sheet Ikan Oyen compressed_4
+  - first:
+      213: -9067219519254452312
+    second: sprite_sheet Ikan Oyen compressed_5
+  - first:
+      213: -6101003528634598257
+    second: sprite_sheet Ikan Oyen compressed_6
+  - first:
+      213: 3731126704599306186
+    second: sprite_sheet Ikan Oyen compressed_7
+  - first:
+      213: 3511773814875685566
+    second: sprite_sheet Ikan Oyen compressed_8
+  - first:
+      213: -4640221607765982148
+    second: sprite_sheet Ikan Oyen compressed_9
+  - first:
+      213: -7083772458942417094
+    second: sprite_sheet Ikan Oyen compressed_10
+  - first:
+      213: -521882518644174737
+    second: sprite_sheet Ikan Oyen compressed_11
+  - first:
+      213: -3680004141481509183
+    second: sprite_sheet Ikan Oyen compressed_12
+  - first:
+      213: -833294164474650305
+    second: sprite_sheet Ikan Oyen compressed_13
+  - first:
+      213: -603457410788262447
+    second: sprite_sheet Ikan Oyen compressed_14
+  - first:
+      213: 2741296836827887257
+    second: sprite_sheet Ikan Oyen compressed_15
+  - first:
+      213: 5623398026901505207
+    second: sprite_sheet Ikan Oyen compressed_16
+  - first:
+      213: -5127211519319819066
+    second: sprite_sheet Ikan Oyen compressed_17
+  - first:
+      213: 9020729566591581796
+    second: sprite_sheet Ikan Oyen compressed_18
+  - first:
+      213: 3538100317084141746
+    second: sprite_sheet Ikan Oyen compressed_19
+  - first:
+      213: 3165679371589718814
+    second: sprite_sheet Ikan Oyen compressed_20
+  - first:
+      213: 136400232067049909
+    second: sprite_sheet Ikan Oyen compressed_21
+  - first:
+      213: -3167236118383276813
+    second: sprite_sheet Ikan Oyen compressed_22
+  - first:
+      213: 5883025576962810669
+    second: sprite_sheet Ikan Oyen compressed_23
+  - first:
+      213: -3360802174269482369
+    second: sprite_sheet Ikan Oyen compressed_24
+  - first:
+      213: 8398848347526113199
+    second: sprite_sheet Ikan Oyen compressed_25
+  - first:
+      213: -7855318156357327794
+    second: sprite_sheet Ikan Oyen compressed_26
+  - first:
+      213: 5827699044574173086
+    second: sprite_sheet Ikan Oyen compressed_27
+  - first:
+      213: 259648894489797049
+    second: sprite_sheet Ikan Oyen compressed_28
+  - first:
+      213: -2079681487584615198
+    second: sprite_sheet Ikan Oyen compressed_29
+  - first:
+      213: 3846934707958815184
+    second: sprite_sheet Ikan Oyen compressed_30
+  - first:
+      213: 6590201529133536131
+    second: sprite_sheet Ikan Oyen compressed_31
+  - first:
+      213: -3254068904547336284
+    second: sprite_sheet Ikan Oyen compressed_32
+  - first:
+      213: 983052943804279843
+    second: sprite_sheet Ikan Oyen compressed_33
+  - first:
+      213: -5663166618726822286
+    second: sprite_sheet Ikan Oyen compressed_34
+  - first:
+      213: 2718891363257910170
+    second: sprite_sheet Ikan Oyen compressed_35
+  - first:
+      213: 7923578358658241391
+    second: sprite_sheet Ikan Oyen compressed_36
+  - first:
+      213: 8047738808958363544
+    second: sprite_sheet Ikan Oyen compressed_37
+  - first:
+      213: -217424479118576048
+    second: sprite_sheet Ikan Oyen compressed_38
+  - first:
+      213: -4937303701681204333
+    second: sprite_sheet Ikan Oyen compressed_39
+  - first:
+      213: 7238644345245740899
+    second: sprite_sheet Ikan Oyen compressed_40
+  - first:
+      213: -5712503571163421425
+    second: sprite_sheet Ikan Oyen compressed_41
+  - first:
+      213: -2491159921780145750
+    second: sprite_sheet Ikan Oyen compressed_42
+  - first:
+      213: 6506678289668491723
+    second: sprite_sheet Ikan Oyen compressed_43
+  - first:
+      213: -2501816095228311370
+    second: sprite_sheet Ikan Oyen compressed_44
+  - first:
+      213: 3789958868692735155
+    second: sprite_sheet Ikan Oyen compressed_45
+  - first:
+      213: 7757683305187028457
+    second: sprite_sheet Ikan Oyen compressed_46
+  - first:
+      213: 896483475533882698
+    second: sprite_sheet Ikan Oyen compressed_47
+  - first:
+      213: 7362334082857070730
+    second: sprite_sheet Ikan Oyen compressed_48
+  - first:
+      213: -4573105668156161545
+    second: sprite_sheet Ikan Oyen compressed_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OyenFish_0
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4871
+        width: 472
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe734e93930c4746a013243e97c9241
+      internalID: 1869450064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_1
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 4871
+        width: 477
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65816bf61d354b989c5c397206fc93c
+      internalID: -574656848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_2
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 4871
+        width: 482
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619148ce53abe45d2bb4a8dd443c2aa9
+      internalID: -1779277891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_3
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 4871
+        width: 483
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35690bb529d0c4d0692a26d3d1365dbe
+      internalID: 1697384982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_4
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 4871
+        width: 486
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3babf7913a0d43878b7f2aff2556363
+      internalID: 1901897551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4331
+        width: 488
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ba128f0b9644b119f3d219912eeb59
+      internalID: -1592256748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_6
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 4331
+        width: 488
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c1179737d3b4aabb13f0514842b983
+      internalID: -1062788128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_7
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 4331
+        width: 491
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38811bcd13254f1cb2af70b8839de30
+      internalID: 1486068960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_8
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 4331
+        width: 493
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da21b7411459472fa5bf5ad0bba335a
+      internalID: 1823457282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_9
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 4331
+        width: 494
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abdef5990a2d4594a30ec07db735d6c
+      internalID: -1954675285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3790
+        width: 491
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc80280fb9304ef0aadd5068e5787b7
+      internalID: 976319307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_11
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 3793
+        width: 493
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a7ccb5d87a452cb8ede0fc14609ec
+      internalID: 1309319045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_12
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 3793
+        width: 492
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b262f9123c7934c76b1f27f86efc7802
+      internalID: 624967588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_13
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 3793
+        width: 490
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b20e07fac24b470d82b3dc377b5b85b
+      internalID: -1097905927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_14
+      rect:
+        serializedVersion: 2
+        x: 4116
+        y: 3793
+        width: 490
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b34fdd42dd034c02ba999be4317dd0d
+      internalID: 865256296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 3252
+        width: 488
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeeeb10c3ac6495c981b553ad2e3e21
+      internalID: -295638249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_16
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 3255
+        width: 488
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0dc8cb5891348b8ad91ade41add509
+      internalID: 623283165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_17
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 3255
+        width: 488
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8992db08664f4f52b570e3193588652
+      internalID: -390742464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_18
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 3255
+        width: 485
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f02ed5b835424f8d9daad59a04f3a71
+      internalID: -1651923331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_19
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 3255
+        width: 485
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fb298b0f7fa48e38fcdae4d2a41e4a
+      internalID: -1801495835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_20
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2717
+        width: 485
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ef1b9a40331484e8184d7f7fe93553
+      internalID: 1336794105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_21
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 2717
+        width: 485
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2833ef6fb444354a73e67c9e156250
+      internalID: 1565044006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_22
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 2717
+        width: 482
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebcab688e9114611a68650e1f72745a
+      internalID: -1039365309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_23
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 2717
+        width: 482
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4934ffd22b4a4062a6f0a6259075096
+      internalID: -256615750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_24
+      rect:
+        serializedVersion: 2
+        x: 4124
+        y: 2717
+        width: 482
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cd253c6c7e9450fa8b3f5f24648080
+      internalID: 2116664038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_25
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2177
+        width: 482
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee26259b39f1a4c518e66d9686dbab4b
+      internalID: 880011432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_26
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 2177
+        width: 482
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98be2c1032c6469c8e417c9a53ee412
+      internalID: -324647489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_27
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 2177
+        width: 485
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109829c4f91d448b7b4f12b8d655f036
+      internalID: 1768709972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_28
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 2177
+        width: 485
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea9646505956429ba097c4401985515
+      internalID: 811190312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_29
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 2177
+        width: 485
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc08d7c6b7c1c4062abda39b2ed80958
+      internalID: 977937808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_30
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1636
+        width: 485
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2931860510f5b4ee592f6cd16c61888b
+      internalID: -661758732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_31
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1636
+        width: 488
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa24d4cfe535487aba66bda9a15b05d
+      internalID: 1235507440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_32
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1633
+        width: 488
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d965eac317e4f01995d4e6b101616a
+      internalID: 1101028374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_33
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 1633
+        width: 488
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d933dcc3a6554bd78947655ec69ea8f
+      internalID: -84481784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_34
+      rect:
+        serializedVersion: 2
+        x: 4116
+        y: 1633
+        width: 488
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c315b083a5dc048c0b8280827525af8e
+      internalID: 94198593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1093
+        width: 488
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0635df86af1774be28f06caa82e4b723
+      internalID: 717856184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_36
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1093
+        width: 487
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd55d29fc1eb244a396305c06357b09e
+      internalID: 1881719654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_37
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 1093
+        width: 488
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07790e026482442f83ee7b4dd81bf0c
+      internalID: -1615138541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_38
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 1093
+        width: 485
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ae0871b78e543748f0e2af0c633054
+      internalID: -1800974753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_39
+      rect:
+        serializedVersion: 2
+        x: 4113
+        y: 1090
+        width: 483
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f75b6e5da1a451b96fb426b28bff52
+      internalID: 908075567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 552
+        width: 486
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4e1033f361a48e7a93d6bbec5e469f
+      internalID: -1488306881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_41
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 552
+        width: 483
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0302f44c79945c9b1cd082ff5898b5
+      internalID: 400792326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_42
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 552
+        width: 480
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c237a5bc27644aa9b19d3394d385d3
+      internalID: -1449378007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_43
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 552
+        width: 478
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c1bccca1b0f431688f830217f24860
+      internalID: -565007254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_44
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 552
+        width: 478
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa86128d880d492ba6f2e38049bc675
+      internalID: -1296889501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_45
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 12
+        width: 475
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7c21cfc9d87441997c068b55cecd1b
+      internalID: -1559371954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_46
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 12
+        width: 475
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ced032eff8c340b9a4b17b1d5febc32
+      internalID: 2139570098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_47
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 12
+        width: 474
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7370fa8cfcfd84f499a5f4ffc8f94362
+      internalID: 1352460613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_48
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 12
+        width: 474
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fe4054dbfab4d6ead5a1b2843d3d07
+      internalID: -1412847877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OyenFish_49
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 12
+        width: 474
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f38fa19ef54c47658baa3f87c0d8a74
+      internalID: -2000425210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0befef36d04dc4706a34cb98a4194287
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OyenFish_0: 1869450064
+      OyenFish_1: -574656848
+      OyenFish_10: 976319307
+      OyenFish_11: 1309319045
+      OyenFish_12: 624967588
+      OyenFish_13: -1097905927
+      OyenFish_14: 865256296
+      OyenFish_15: -295638249
+      OyenFish_16: 623283165
+      OyenFish_17: -390742464
+      OyenFish_18: -1651923331
+      OyenFish_19: -1801495835
+      OyenFish_2: -1779277891
+      OyenFish_20: 1336794105
+      OyenFish_21: 1565044006
+      OyenFish_22: -1039365309
+      OyenFish_23: -256615750
+      OyenFish_24: 2116664038
+      OyenFish_25: 880011432
+      OyenFish_26: -324647489
+      OyenFish_27: 1768709972
+      OyenFish_28: 811190312
+      OyenFish_29: 977937808
+      OyenFish_3: 1697384982
+      OyenFish_30: -661758732
+      OyenFish_31: 1235507440
+      OyenFish_32: 1101028374
+      OyenFish_33: -84481784
+      OyenFish_34: 94198593
+      OyenFish_35: 717856184
+      OyenFish_36: 1881719654
+      OyenFish_37: -1615138541
+      OyenFish_38: -1800974753
+      OyenFish_39: 908075567
+      OyenFish_4: 1901897551
+      OyenFish_40: -1488306881
+      OyenFish_41: 400792326
+      OyenFish_42: -1449378007
+      OyenFish_43: -565007254
+      OyenFish_44: -1296889501
+      OyenFish_45: -1559371954
+      OyenFish_46: 2139570098
+      OyenFish_47: 1352460613
+      OyenFish_48: -1412847877
+      OyenFish_49: -2000425210
+      OyenFish_5: -1592256748
+      OyenFish_6: -1062788128
+      OyenFish_7: 1486068960
+      OyenFish_8: 1823457282
+      OyenFish_9: -1954675285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
